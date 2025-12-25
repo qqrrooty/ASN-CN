@@ -9,7 +9,7 @@ const CSV_FILE = path.join(DATA_DIR, "ip-to-asn.csv");
 const raw = fs.readFileSync(CSV_FILE, "utf-8");
 const lines = raw.split("\n");
 
-// 用 Map 记录 ASN -> 组织名，保证唯一
+// ASN -> 组织名（去重）
 const asnMap = new Map();
 
 for (let i = 1; i < lines.length; i++) {
@@ -18,15 +18,19 @@ for (let i = 1; i < lines.length; i++) {
   const country = row[2]?.trim();
   const org = row[4]?.trim() || row[3]?.trim() || "";
   if (country === "CN" && asn) {
-    asnMap.set(asn, org); // 如果重复会覆盖，但 ASN 保证唯一
+    asnMap.set(asn, org);
   }
 }
 
-// 转成数组
 const asns = Array.from(asnMap.keys());
-const primitiveEntries = Array.from(asnMap, ([asn, org]) => `IP-ASN,${asn} // ${org}`);
 
-// 统一 header
+// primitive
+const primitiveEntries = Array.from(
+  asnMap,
+  ([asn, org]) => `IP-ASN,${asn} // ${org}`
+);
+
+// 时间
 function nowCST() {
   return new Date(Date.now() + 8 * 3600 * 1000)
     .toISOString()
@@ -34,17 +38,42 @@ function nowCST() {
     .replace(".000Z", "");
 }
 
+// 统一 header
 const header =
   `# CN 的 ASN 信息\n` +
   `# 最后更新： CST ${nowCST()}\n` +
   `# ASN: ${asns.length}\n` +
   `# 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。\n\n`;
 
-// 生成文件
-fs.writeFileSync("CN_ASN.list", header + asns.map(a => `${a},no-resolve`).join("\n") + "\n");
-fs.writeFileSync("CN_ASN_No_Resolve.list", header + asns.join("\n") + "\n");
-fs.writeFileSync("CN_ASN.yaml", header + "payload:\n" + asns.map(a => `  - ${a},no-resolve`).join("\n") + "\n");
-fs.writeFileSync("CN_ASN_No_Resolve.yaml", header + "payload:\n" + asns.map(a => `  - ${a}`).join("\n") + "\n");
-fs.writeFileSync("CN_ASN_Primitive.list", header + primitiveEntries.join("\n") + "\n");
+fs.writeFileSync(
+  "CN_ASN.list",
+  header + asns.map(a => `IP-ASN,${a},no-resolve`).join("\n") + "\n"
+);
 
-console.log("CN ASN rebuilt, 5 files generated (ASN deduplicated).");
+fs.writeFileSync(
+  "CN_ASN_No_Resolve.list",
+  header + asns.map(a => `IP-ASN,${a}`).join("\n") + "\n"
+);
+
+fs.writeFileSync(
+  "CN_ASN.yaml",
+  header +
+    "payload:\n" +
+    asns.map(a => `  - IP-ASN,${a},no-resolve`).join("\n") +
+    "\n"
+);
+
+fs.writeFileSync(
+  "CN_ASN_No_Resolve.yaml",
+  header +
+    "payload:\n" +
+    asns.map(a => `  - IP-ASN,${a}`).join("\n") +
+    "\n"
+);
+
+fs.writeFileSync(
+  "CN_ASN_Primitive.list",
+  header + primitiveEntries.join("\n") + "\n"
+);
+
+console.log("CN ASN rebuilt, 5 files generated (IP-ASN prefixed).");
