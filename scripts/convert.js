@@ -9,8 +9,8 @@ const CSV_FILE = path.join(DATA_DIR, "ip-to-asn.csv");
 const raw = fs.readFileSync(CSV_FILE, "utf-8");
 const lines = raw.split("\n");
 
-const asnsSet = new Set();
-const primitiveSet = new Set();
+// 用 Map 记录 ASN -> 组织名，保证唯一
+const asnMap = new Map();
 
 for (let i = 1; i < lines.length; i++) {
   const row = lines[i].split(",");
@@ -18,14 +18,13 @@ for (let i = 1; i < lines.length; i++) {
   const country = row[2]?.trim();
   const org = row[4]?.trim() || row[3]?.trim() || "";
   if (country === "CN" && asn) {
-    asnsSet.add(asn);
-    primitiveSet.add(`IP-ASN,${asn} // ${org}`);
+    asnMap.set(asn, org); // 如果重复会覆盖，但 ASN 保证唯一
   }
 }
 
 // 转成数组
-const asns = Array.from(asnsSet);
-const primitiveEntries = Array.from(primitiveSet);
+const asns = Array.from(asnMap.keys());
+const primitiveEntries = Array.from(asnMap, ([asn, org]) => `IP-ASN,${asn} // ${org}`);
 
 // 统一 header
 function nowCST() {
@@ -48,4 +47,4 @@ fs.writeFileSync("CN_ASN.yaml", header + "payload:\n" + asns.map(a => `  - ${a},
 fs.writeFileSync("CN_ASN_No_Resolve.yaml", header + "payload:\n" + asns.map(a => `  - ${a}`).join("\n") + "\n");
 fs.writeFileSync("CN_ASN_Primitive.list", header + primitiveEntries.join("\n") + "\n");
 
-console.log("CN ASN rebuilt, 5 files generated (deduplicated).");
+console.log("CN ASN rebuilt, 5 files generated (ASN deduplicated).");
