@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2025-12-31 01:19:22.953Z
-# ASN: 912
+# 最后更新： CST 2026-01-01 01:17:43.875Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -111,10 +111,10 @@ IP-ASN,56045 // China Mobile Communications Corporation
 IP-ASN,24547 // China Mobile
 IP-ASN,56046 // China Mobile Communications Corporation
 IP-ASN,24445 // China Mobile
-IP-ASN,56040 // China Mobile Communications Corporation
 IP-ASN,63531 // "Beijing BAIWU Technology Co.
 IP-ASN,141425 // China Mobile Communications Corporation
 IP-ASN,139080 // China Mobile Communications Corporation
+IP-ASN,56040 // China Mobile Communications Corporation
 IP-ASN,24444 // China Mobile
 IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
@@ -211,7 +211,6 @@ IP-ASN,63583 // Chinese Academy of Telecommunication Research
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
-IP-ASN,139888 // Time Network
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,137702 // China Telecom
@@ -595,7 +594,6 @@ IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
 IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,209300 // Wende Tan
-IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
@@ -632,10 +630,10 @@ IP-ASN,153186 // Xu Jiayou
 IP-ASN,153187 // Wu Chunyu
 IP-ASN,153189 // Wang Jianwei
 IP-ASN,153190 // Zhang Chong
+IP-ASN,139888 // Time Network
 IP-ASN,149510 // Feng Libo
 IP-ASN,153331 // Chen Wei
 IP-ASN,153333 // Fu Jiechun
-IP-ASN,132623 // Tsukeru Networks
 IP-ASN,153057 // Li Ruizhi
 IP-ASN,153168 // Lu Bin
 IP-ASN,153170 // Cui Hongtao
@@ -667,6 +665,7 @@ IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
+IP-ASN,132623 // Tsukeru Networks
 IP-ASN,139231 // Zero
 IP-ASN,141445 // Phoenix Network
 IP-ASN,137721 // HENTE
@@ -880,7 +879,6 @@ IP-ASN,210352 // Yijia Xu
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
-IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,154185 // Liu HaoRan
 IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
@@ -915,3 +913,4 @@ IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,205369 // LI YIRAN
 IP-ASN,205008 // HUANG JUNQI
+IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
