@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-06 01:21:59.307Z
-# ASN: 913
+# 最后更新： CST 2026-01-07 01:22:26.106Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -754,7 +754,6 @@ IP-ASN,140650 // China Telecom
 IP-ASN,140651 // China Telecom
 IP-ASN,140652 // China Telecom
 IP-ASN,140653 // China Telecom
-IP-ASN,140654 // China Telecom
 IP-ASN,140655 // China Telecom
 IP-ASN,140656 // China Telecom
 IP-ASN,140657 // China Telecom
@@ -817,7 +816,6 @@ IP-ASN,214955 // Weikang Zeng
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
-IP-ASN,198025 // Yucheng Zhu
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
@@ -831,7 +829,6 @@ IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
 IP-ASN,206729 // Vincent Yang
-IP-ASN,200536 // Bo Xu
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
 IP-ASN,215265 // Lie Hu
@@ -911,6 +908,7 @@ IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,205369 // LI YIRAN
+IP-ASN,198025 // Yucheng Zhu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
