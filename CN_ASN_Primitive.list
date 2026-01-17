@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-17 01:23:35.442Z
-# ASN: 914
+# 最后更新： CST 2026-01-18 01:16:37.354Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -75,6 +75,7 @@ IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,135040 // "Dongguan Xingxiu Technology Co.
+IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -241,7 +242,6 @@ IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,140309 // China Telecom
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
 IP-ASN,141025 // China Telecom
-IP-ASN,58777 // ChinaTelecom Cybersecurity Tech
 IP-ASN,134238 // CHINANET Jiangx province IDC network
 IP-ASN,139201 // China Telecom
 IP-ASN,18245 // CNNIC
@@ -268,6 +268,7 @@ IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
+IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -432,6 +433,7 @@ IP-ASN,133119 // China Unicom IP network
 IP-ASN,137539 // China Unicom
 IP-ASN,137699 // CHINATELECOM Jiangsu Suqian IDC network
 IP-ASN,9809 // "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.
+IP-ASN,58777 // ChinaTelecom Cybersecurity Tech
 IP-ASN,63648 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,132437 // China Telecom
 IP-ASN,45097 // "Poly facility (Beijing) Technology Co.
@@ -475,7 +477,6 @@ IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,152920 // Zhao Chenglin
-IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
 IP-ASN,63538 // "Accenture (China) Co.
@@ -575,7 +576,6 @@ IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
 IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
-IP-ASN,151483 // Beijing Chuangzhijie Tech. Co. Ltd.
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,24150 // "1 TianXianQiao BinHe Road
@@ -905,7 +905,6 @@ IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,213629 // ZEXIN CHEN
-IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,210176 // Haoyi Xiang
