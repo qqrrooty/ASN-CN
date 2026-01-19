@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-19 01:16:28.383Z
-# ASN: 911
+# 最后更新： CST 2026-01-20 01:22:42.207Z
+# ASN: 910
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -204,6 +204,7 @@ IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
 IP-ASN,55967 // "Beijing Baidu Netcom Science and Technology Co.
 IP-ASN,45061 // "Shanghai Information Network Co.
 IP-ASN,63701 // "Jishi Media Co .
+IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,63583 // Chinese Academy of Telecommunication Research
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
@@ -468,7 +469,6 @@ IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
 IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
-IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
@@ -648,7 +648,6 @@ IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
 IP-ASN,213903 // Liuyang Zhang
 IP-ASN,136535 // Yang Mengqi
-IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,152892 // Liu Jiarong
 IP-ASN,153330 // Northern Lights Technologies LLC
