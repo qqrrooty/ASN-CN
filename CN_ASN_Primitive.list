@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-22 01:53:47.404Z
-# ASN: 912
+# 最后更新： CST 2026-01-23 01:27:40.533Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -74,7 +74,6 @@ IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,135040 // "Dongguan Xingxiu Technology Co.
-IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -266,7 +265,6 @@ IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
-IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -522,6 +520,7 @@ IP-ASN,17739 // Shanghai Telecom Haplink Network Co Ltd (Haplink)
 IP-ASN,45071 // "No.8 Xing Guang 5th Street
 IP-ASN,56012 // LGNET China
 IP-ASN,24141 // "Shanghai DMT Information Network cor.
+IP-ASN,150184 // Chen Chi
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,17776 // China Enterprise ICT Solutions Limited
 IP-ASN,38358 // "3 Fuxing Road
@@ -606,7 +605,6 @@ IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,140915 // Xiang Xuanchen
 IP-ASN,211575 // Rui Feng
-IP-ASN,150184 // Chen Chi
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
@@ -904,6 +902,7 @@ IP-ASN,212985 // Mingjie Wu
 IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
+IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,205369 // LI YIRAN
