@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-26 01:17:01.110Z
+# 最后更新： CST 2026-01-27 01:28:17.638Z
 # ASN: 910
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -50,6 +50,7 @@ IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
+IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,133774 // Fuzhou
 IP-ASN,63614 // "A4
@@ -597,7 +598,6 @@ IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,140731 // TOHU Public Internet
-IP-ASN,199310 // XIN BING XIAN
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
@@ -644,7 +644,6 @@ IP-ASN,152922 // Zhang Fuyu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,152921 // Yu Dong
 IP-ASN,152892 // Liu Jiarong
@@ -877,6 +876,7 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
+IP-ASN,213903 // Liuyang Zhang
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
