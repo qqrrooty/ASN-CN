@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-27 01:28:17.638Z
-# ASN: 910
+# 最后更新： CST 2026-01-28 01:26:55.125Z
+# ASN: 909
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -198,6 +198,7 @@ IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153633 // KVQNET
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
+IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,205610 // Huanjie Zhu
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
@@ -210,7 +211,6 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,139888 // Time Network
-IP-ASN,207901 // ZHOU ZEFENG
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,151270 // China Internet Network Information Center
@@ -572,7 +572,6 @@ IP-ASN,140043 // "Guangzhou Jinggong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
 IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
-IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,24150 // "1 TianXianQiao BinHe Road
@@ -663,7 +662,6 @@ IP-ASN,150373 // Zhang Bocheng
 IP-ASN,151193 // Shandong Deju Information Technology Co Ltd
 IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
-IP-ASN,212831 // Liang Zhan Ming
 IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,139231 // Zero
@@ -905,6 +903,7 @@ IP-ASN,213782 // Chang Xin
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
+IP-ASN,212831 // Liang Zhan Ming
 IP-ASN,205369 // LI YIRAN
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
