@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-30 01:36:35.550Z
-# ASN: 910
+# 最后更新： CST 2026-01-31 01:32:29.775Z
+# ASN: 909
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -329,7 +329,6 @@ IP-ASN,139138 // "Gopay Information Technology Co.
 IP-ASN,137758 // "Industrial and Commercial Bank of China Limited
 IP-ASN,137571 // "Rang Yang Bai Shi Chuang Yun Co.
 IP-ASN,136197 // "Xiong'an
-IP-ASN,139743 // "Shen Zhen Shi Fang Technology Co.
 IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,137759 // "MTS SYSTEM (China) Co.
 IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
@@ -398,6 +397,7 @@ IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
 IP-ASN,132225 // China Telecom
 IP-ASN,59223 // CHINANET Qinghai province IDC network
 IP-ASN,140105 // China Mobile Communications Corporation
+IP-ASN,23841 // "6/F
 IP-ASN,138982 // China Telecom
 IP-ASN,136194 // "Huangshi
 IP-ASN,131285 // China Telecom
@@ -605,7 +605,6 @@ IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,140915 // Xiang Xuanchen
 IP-ASN,211575 // Rui Feng
 IP-ASN,151194 // Zhu Yucheng
-IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,136591 // MxxCloud LLC
 IP-ASN,134488 // CTJ's Global Network
@@ -649,6 +648,7 @@ IP-ASN,152892 // Liu Jiarong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
 IP-ASN,153633 // KVQNET
+IP-ASN,138535 // Wu Qi
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
@@ -832,7 +832,6 @@ IP-ASN,206729 // Vincent Yang
 IP-ASN,200536 // Bo Xu
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
-IP-ASN,215265 // Lie Hu
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,200853 // Yifan Li
 IP-ASN,212532 // XIAO YANG WEN RUI
