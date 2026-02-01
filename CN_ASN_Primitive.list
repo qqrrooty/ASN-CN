@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-01 01:22:33.684Z
-# ASN: 912
+# 最后更新： CST 2026-02-02 01:23:35.257Z
+# ASN: 909
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -165,7 +165,6 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
@@ -321,7 +320,6 @@ IP-ASN,137806 // WMGS Consulting (Shenzhen) Co.Ltd
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,137801 // "AIPO Cloud (Guizhou) Technology Co.
 IP-ASN,137798 // "5/F
-IP-ASN,63654 // BEIJING NETEAST TECHNOLOGIES CORPORATION LTD
 IP-ASN,137788 // Shanxi Beacon Cloudscape
 IP-ASN,137715 // GTJA Securities
 IP-ASN,138029 // "Shen Zhen Hu Lian Xian Feng Technology Co.
@@ -541,6 +539,7 @@ IP-ASN,146841 // Tianjin GiantDC Data Technology Co.Ltd
 IP-ASN,9392 // APT MOBILE SATCOM LIMITED
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
+IP-ASN,45064 // "BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.
 IP-ASN,149178 // China Telecom
 IP-ASN,132833 // China Telecom
 IP-ASN,56000 // "HERBALIFE(SHANGHAI)MANAGEMENT CO.
@@ -851,7 +850,6 @@ IP-ASN,209556 // Benli Zhong
 IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
 IP-ASN,205532 // Zichao Heng
-IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
@@ -902,7 +900,6 @@ IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
 IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
-IP-ASN,213782 // Chang Xin
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
