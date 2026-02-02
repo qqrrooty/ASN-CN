@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-02 01:23:35.257Z
-# ASN: 909
+# 最后更新： CST 2026-02-03 01:37:16.650Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -50,7 +50,6 @@ IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
-IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,133774 // Fuzhou
 IP-ASN,63614 // "A4
@@ -165,6 +164,7 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
@@ -294,7 +294,6 @@ IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
 IP-ASN,132019 // "Earth network technology (Shanghai) Co.
 IP-ASN,139177 // New Oriental Education & Technology Group Ltd.
-IP-ASN,63633 // "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.
 IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,151295 // China Internet Network Information Center
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
@@ -320,6 +319,7 @@ IP-ASN,137806 // WMGS Consulting (Shenzhen) Co.Ltd
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,137801 // "AIPO Cloud (Guizhou) Technology Co.
 IP-ASN,137798 // "5/F
+IP-ASN,63654 // BEIJING NETEAST TECHNOLOGIES CORPORATION LTD
 IP-ASN,137788 // Shanxi Beacon Cloudscape
 IP-ASN,137715 // GTJA Securities
 IP-ASN,138029 // "Shen Zhen Hu Lian Xian Feng Technology Co.
@@ -597,6 +597,7 @@ IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,140731 // TOHU Public Internet
+IP-ASN,199310 // XIN BING XIAN
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
@@ -900,6 +901,7 @@ IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
 IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
+IP-ASN,213782 // Chang Xin
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
