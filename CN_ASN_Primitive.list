@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-03 01:37:16.650Z
+# 最后更新： CST 2026-02-04 01:52:23.983Z
 # ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -424,7 +424,6 @@ IP-ASN,140636 // China Telecom
 IP-ASN,140484 // China Telecom
 IP-ASN,138991 // China Telecom
 IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
-IP-ASN,38379 // "No.9 Building
 IP-ASN,140707 // China Unicom
 IP-ASN,133119 // China Unicom IP network
 IP-ASN,137539 // China Unicom
@@ -439,6 +438,7 @@ IP-ASN,23844 // Beijing Guanghuan Xinwang Digital
 IP-ASN,59045 // "Guangzhou navigation information technology co.
 IP-ASN,38255 // China Education and Research Network (CERNET)
 IP-ASN,38380 // China South Locomotive And Rolling Stock Industry Company
+IP-ASN,38379 // "No.9 Building
 IP-ASN,38367 // "20/F.
 IP-ASN,38375 // GSGH security LLC
 IP-ASN,131562 // "HUNAN CATV Network Group CO.
