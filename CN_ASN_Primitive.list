@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-05 01:43:54.257Z
-# ASN: 910
+# 最后更新： CST 2026-02-06 01:46:07.211Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -217,6 +217,7 @@ IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
 IP-ASN,135061 // China Unicom Guangdong IP network
 IP-ASN,137702 // China Telecom
+IP-ASN,63633 // "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.
 IP-ASN,146966 // China Telecom
 IP-ASN,146834 // "SiChuan XunYou Network Technologe Limit
 IP-ASN,7497 // CNIC-CAS
