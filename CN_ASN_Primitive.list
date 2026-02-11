@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-11 02:00:34.564Z
-# ASN: 917
+# 最后更新： CST 2026-02-12 01:54:55.357Z
+# ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -543,7 +543,6 @@ IP-ASN,9810 // "Beijing Times Netstar Technology Co.
 IP-ASN,23851 // "CHONGQING CNC BROADBAND NETWORKS CO.
 IP-ASN,149979 // China Telecom
 IP-ASN,146841 // Tianjin GiantDC Data Technology Co.Ltd
-IP-ASN,9392 // APT MOBILE SATCOM LIMITED
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
 IP-ASN,45064 // "BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.
@@ -612,6 +611,7 @@ IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,140915 // Xiang Xuanchen
 IP-ASN,211575 // Rui Feng
+IP-ASN,152892 // Liu Jiarong
 IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,136591 // MxxCloud LLC
@@ -653,7 +653,6 @@ IP-ASN,153034 // Wang Lin
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
-IP-ASN,152892 // Liu Jiarong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
 IP-ASN,153633 // KVQNET
@@ -881,15 +880,14 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
-IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,211721 // HUANG YUCHAO
+IP-ASN,213903 // Liuyang Zhang
 IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
 IP-ASN,214704 // Xin Zhao
