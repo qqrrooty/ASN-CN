@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-12 01:54:55.357Z
-# ASN: 915
+# 最后更新： CST 2026-02-13 01:56:27.887Z
+# ASN: 917
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -257,7 +257,6 @@ IP-ASN,140527 // China Telecom
 IP-ASN,142608 // China Telecom
 IP-ASN,138570 // China Telecom
 IP-ASN,17968 // Daqing zhongji petroleum telecommunication construction limited cpmpany
-IP-ASN,17964 // "Beijing Dian-Xin-Tong Network Technologies Co.
 IP-ASN,17490 // "3/F
 IP-ASN,17442 // Internet Service Provider in China
 IP-ASN,134420 // Chongqing Telecom
@@ -427,6 +426,7 @@ IP-ASN,58518 // China Telecom
 IP-ASN,58517 // China Telecom
 IP-ASN,137692 // "IOT Guangdong network
 IP-ASN,140636 // China Telecom
+IP-ASN,17964 // "Beijing Dian-Xin-Tong Network Technologies Co.
 IP-ASN,140484 // China Telecom
 IP-ASN,138991 // China Telecom
 IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
@@ -599,6 +599,7 @@ IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,209300 // Wende Tan
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
+IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
@@ -882,16 +883,17 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
+IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,211721 // HUANG YUCHAO
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
+IP-ASN,213903 // Liuyang Zhang
 IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
