@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-13 01:56:27.887Z
-# ASN: 917
+# 最后更新： CST 2026-02-14 01:39:07.770Z
+# ASN: 918
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -893,13 +893,13 @@ IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,216373 // Xin Xu
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
+IP-ASN,213903 // Liuyang Zhang
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
@@ -920,3 +920,4 @@ IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,201705 // Xinrun Li
+IP-ASN,201235 // Chen Xi
