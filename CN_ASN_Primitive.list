@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-14 01:39:07.770Z
-# ASN: 918
+# 最后更新： CST 2026-02-15 01:25:22.677Z
+# ASN: 919
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -52,7 +52,6 @@ IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
-IP-ASN,133774 // Fuzhou
 IP-ASN,63614 // "A4
 IP-ASN,23650 // China Telecom
 IP-ASN,137266 // China Telecom
@@ -70,6 +69,7 @@ IP-ASN,56013 // SAMSUNG SDS CHINA
 IP-ASN,17621 // China Unicom Shanghai network
 IP-ASN,58539 // "Langfang
 IP-ASN,141771 // China Telecom
+IP-ASN,133774 // Fuzhou
 IP-ASN,133776 // Quanzhou
 IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
@@ -891,6 +891,7 @@ IP-ASN,202335 // Zhanrui Tian
 IP-ASN,211721 // HUANG YUCHAO
 IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
+IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
 IP-ASN,215832 // Jian Xu
