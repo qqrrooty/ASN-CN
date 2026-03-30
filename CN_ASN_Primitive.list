@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-30 01:29:12.067Z
+# 最后更新： CST 2026-03-31 01:53:59.136Z
 # ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -187,7 +187,6 @@ IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
-IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
 IP-ASN,203236 // Mingyang Shen
@@ -476,7 +475,6 @@ IP-ASN,137771 // "Zhejiang Liangliang Cloud Network Technology Co.
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
-IP-ASN,142207 // "WJY (Shanghai) Technology Co.
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
@@ -823,6 +821,7 @@ IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204185 // Yuchen Ma
+IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
@@ -851,6 +850,7 @@ IP-ASN,214660 // junlin chen
 IP-ASN,209556 // Benli Zhong
 IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
+IP-ASN,205532 // Zichao Heng
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
@@ -875,8 +875,8 @@ IP-ASN,213891 // Liu Zhen
 IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
-IP-ASN,209645 // Jixian Zeng
 IP-ASN,202396 // Zeng Yukai
+IP-ASN,50922 // SHI Li Li
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
