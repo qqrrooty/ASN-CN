@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-31 01:53:59.136Z
-# ASN: 915
+# 最后更新： CST 2026-04-01 01:56:16.067Z
+# ASN: 914
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -187,6 +187,7 @@ IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
+IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
 IP-ASN,203236 // Mingyang Shen
@@ -210,6 +211,7 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
+IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
@@ -352,7 +354,6 @@ IP-ASN,139136 // "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.
 IP-ASN,137719 // "Qingdao Weidong Big Data Technology Co.
 IP-ASN,9389 // BEIJING SHENZHOU GREATWALL COMMUNICATION
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
-IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,146746 // "TaiKang Insurance Group CO.
 IP-ASN,146842 // ChinaDataCom Corporation Limited
 IP-ASN,147008 // Shenzhen Dianjiang Technology Co Ltd
@@ -471,7 +472,6 @@ IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
 IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,151247 // China Internet Network Information Center
-IP-ASN,137771 // "Zhejiang Liangliang Cloud Network Technology Co.
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
@@ -876,7 +876,6 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
-IP-ASN,50922 // SHI Li Li
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
