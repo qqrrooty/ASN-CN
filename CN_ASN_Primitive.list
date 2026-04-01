@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-01 01:56:16.067Z
-# ASN: 914
+# 最后更新： CST 2026-04-02 01:50:33.183Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -73,7 +73,6 @@ IP-ASN,133776 // Quanzhou
 IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
-IP-ASN,135040 // "Dongguan Xingxiu Technology Co.
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -163,7 +162,6 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
-IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
@@ -212,7 +210,6 @@ IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
-IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
 IP-ASN,135061 // China Unicom Guangdong IP network
@@ -290,6 +287,7 @@ IP-ASN,38378 // Bosch (China) Investment Ltd.
 IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
+IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -883,7 +881,6 @@ IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
-IP-ASN,211721 // HUANG YUCHAO
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,210738 // Peng Chen
 IP-ASN,214610 // YangXu Liao
