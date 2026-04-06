@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-06 01:29:58.854Z
+# 最后更新： CST 2026-04-07 01:43:13.349Z
 # ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -29,6 +29,7 @@ IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
+IP-ASN,212053 // ShiJI Tong
 IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
 IP-ASN,37963 // "Hangzhou Alibaba Advertising Co.
@@ -266,7 +267,6 @@ IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,207091 // Wang Junhao
-IP-ASN,212053 // ShiJI Tong
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,212164 // Jiaxian He
 IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
@@ -825,7 +825,6 @@ IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,215502 // Xing Qingyu
-IP-ASN,208679 // YIKAI-ZHAO
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
@@ -866,6 +865,7 @@ IP-ASN,206843 // Jikai Ren
 IP-ASN,211968 // Chenran MU
 IP-ASN,211158 // Jun CAO
 IP-ASN,210903 // "Chengde TsingYao Network Technology Service Co.
+IP-ASN,208679 // YIKAI-ZHAO
 IP-ASN,198527 // Haolin Li
 IP-ASN,197626 // XU ZIYAO
 IP-ASN,216299 // Yang Liuchang
