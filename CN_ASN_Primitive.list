@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-07 01:43:13.349Z
+# 最后更新： CST 2026-04-08 01:58:03.995Z
 # ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -266,7 +266,6 @@ IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
-IP-ASN,207091 // Wang Junhao
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,212164 // Jiaxian He
 IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
@@ -903,6 +902,7 @@ IP-ASN,213782 // Chang Xin
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
+IP-ASN,207091 // Wang Junhao
 IP-ASN,205369 // LI YIRAN
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,210773 // Xinyu Chen
