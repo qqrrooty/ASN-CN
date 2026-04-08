@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-08 01:58:03.995Z
-# ASN: 911
+# 最后更新： CST 2026-04-09 02:05:57.053Z
+# ASN: 910
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -164,7 +164,6 @@ IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
 IP-ASN,151302 // China Internet Network Information Center
-IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -287,6 +286,7 @@ IP-ASN,38378 // Bosch (China) Investment Ltd.
 IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
+IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -576,7 +576,6 @@ IP-ASN,204856 // Lijun Li
 IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
-IP-ASN,24150 // "1 TianXianQiao BinHe Road
 IP-ASN,55641 // "Beijing CNISP Technology Co.
 IP-ASN,151276 // China Internet Network Information Center
 IP-ASN,215750 // DAQIAN HUANG
@@ -624,6 +623,7 @@ IP-ASN,138401 // TupleTech Corporation
 IP-ASN,138211 // TupleTech Corporation
 IP-ASN,208618 // Yangyu Chen
 IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
+IP-ASN,151490 // GaonIT
 IP-ASN,152911 // SY ICT
 IP-ASN,136725 // Chen Jitong
 IP-ASN,137436 // Cong Pengbo
@@ -665,7 +665,6 @@ IP-ASN,132479 // Xue Desen
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
-IP-ASN,151490 // GaonIT
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
