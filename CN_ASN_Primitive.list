@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-17 02:07:51.583Z
-# ASN: 910
+# 最后更新： CST 2026-04-18 01:48:49.057Z
+# ASN: 907
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -147,6 +147,7 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -164,7 +165,6 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
@@ -580,7 +580,6 @@ IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,55641 // "Beijing CNISP Technology Co.
-IP-ASN,151276 // China Internet Network Information Center
 IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,151230 // China Internet Network Information Center
 IP-ASN,137256 // CatIO Network
@@ -613,7 +612,6 @@ IP-ASN,150184 // Chen Chi
 IP-ASN,152892 // Liu Jiarong
 IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
-IP-ASN,136591 // MxxCloud LLC
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
 IP-ASN,137908 // Lin Siqi
@@ -819,6 +817,7 @@ IP-ASN,214955 // Weikang Zeng
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
+IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
@@ -847,7 +846,6 @@ IP-ASN,209556 // Benli Zhong
 IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
 IP-ASN,205532 // Zichao Heng
-IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
@@ -908,7 +906,6 @@ IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
-IP-ASN,209601 // Yu ZuYuan
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,201705 // Xinrun Li
