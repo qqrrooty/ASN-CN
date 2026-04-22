@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-22 01:58:54.528Z
+# 最后更新： CST 2026-04-23 01:59:39.193Z
 # ASN: 907
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -36,6 +36,7 @@ IP-ASN,37963 // "Hangzhou Alibaba Advertising Co.
 IP-ASN,134763 // CHINANET Guangdong province network
 IP-ASN,58466 // CHINANET Guangdong province network
 IP-ASN,135089 // China Telecom
+IP-ASN,140311 // China Telecom
 IP-ASN,140308 // China Telecom
 IP-ASN,140319 // China Telecom
 IP-ASN,136199 // CHINANET Guangdong province Yuedong MAN network
@@ -47,7 +48,6 @@ IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,140318 // China Telecom
 IP-ASN,140320 // China Telecom
-IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,199310 // XIN BING XIAN
@@ -378,6 +378,7 @@ IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
+IP-ASN,136195 // "Qingdao
 IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
@@ -469,7 +470,6 @@ IP-ASN,18242 // "Chengdu Information Harbor Co.
 IP-ASN,63593 // HeyTap PTE.LTD.
 IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
-IP-ASN,136195 // "Qingdao
 IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -878,10 +878,10 @@ IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
+IP-ASN,198681 // Jinquan Zeng
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,214610 // YangXu Liao
-IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
 IP-ASN,151673 // Chen Xinyu
@@ -891,6 +891,7 @@ IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
 IP-ASN,199353 // Gao Yuheng
+IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
@@ -907,6 +908,5 @@ IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,205008 // Junqi Huang
-IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,201705 // Xinrun Li
 IP-ASN,201235 // Chen Xi
