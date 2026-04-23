@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-23 01:59:39.193Z
+# 最后更新： CST 2026-04-24 02:05:49.899Z
 # ASN: 907
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -610,7 +610,6 @@ IP-ASN,211575 // Rui Feng
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,150184 // Chen Chi
 IP-ASN,152892 // Liu Jiarong
-IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
@@ -653,6 +652,7 @@ IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
+IP-ASN,138535 // Wu Qi
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
