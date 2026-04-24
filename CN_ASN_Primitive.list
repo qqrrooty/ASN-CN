@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-24 02:05:49.899Z
-# ASN: 907
+# 最后更新： CST 2026-04-25 01:50:36.048Z
+# ASN: 908
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -298,6 +298,7 @@ IP-ASN,139177 // New Oriental Education & Technology Group Ltd.
 IP-ASN,131482 // "Hangzhou Aron Teconology Co.
 IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,151295 // China Internet Network Information Center
+IP-ASN,59057 // "Jishi Media Co .
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
 IP-ASN,63631 // "Guangdong Cloudbase Technology Co.
 IP-ASN,63634 // "China Payment & Clearing Network Co.
@@ -378,6 +379,7 @@ IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
+IP-ASN,63696 // "China Securities Co.
 IP-ASN,136195 // "Qingdao
 IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
@@ -610,6 +612,7 @@ IP-ASN,211575 // Rui Feng
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,150184 // Chen Chi
 IP-ASN,152892 // Liu Jiarong
+IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
@@ -652,7 +655,6 @@ IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
-IP-ASN,138535 // Wu Qi
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
@@ -818,6 +820,7 @@ IP-ASN,214955 // Weikang Zeng
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
+IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
@@ -883,7 +886,6 @@ IP-ASN,200472 // xiao yuqing
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,214610 // YangXu Liao
 IP-ASN,214704 // Xin Zhao
-IP-ASN,215315 // LIZI LUO
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
@@ -891,7 +893,6 @@ IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
 IP-ASN,199353 // Gao Yuheng
-IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
