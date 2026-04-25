@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-25 01:50:36.048Z
-# ASN: 908
+# 最后更新： CST 2026-04-26 01:36:40.978Z
+# ASN: 904
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -31,6 +31,7 @@ IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
 IP-ASN,212053 // ShiJI Tong
 IP-ASN,45102 // "Alibaba (US) Technology Co.
+IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
 IP-ASN,37963 // "Hangzhou Alibaba Advertising Co.
 IP-ASN,134763 // CHINANET Guangdong province network
@@ -298,7 +299,6 @@ IP-ASN,139177 // New Oriental Education & Technology Group Ltd.
 IP-ASN,131482 // "Hangzhou Aron Teconology Co.
 IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,151295 // China Internet Network Information Center
-IP-ASN,59057 // "Jishi Media Co .
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
 IP-ASN,63631 // "Guangdong Cloudbase Technology Co.
 IP-ASN,63634 // "China Payment & Clearing Network Co.
@@ -367,7 +367,6 @@ IP-ASN,146822 // Shenzhenshi Zhongyun Shujujishu Youxiangongsi
 IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,58543 // Guangdong
-IP-ASN,136146 // "Beijing 3389 Network Technology Co.
 IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
 IP-ASN,146812 // "Deutsche Bank (China) Co.
@@ -379,7 +378,6 @@ IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
-IP-ASN,63696 // "China Securities Co.
 IP-ASN,136195 // "Qingdao
 IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
@@ -817,7 +815,6 @@ IP-ASN,140378 // China Telecom
 IP-ASN,215507 // KAI BI
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,214955 // Weikang Zeng
-IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
@@ -875,6 +872,7 @@ IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,203309 // Liangyi Ma
+IP-ASN,214933 // Bingxin Liu
 IP-ASN,210352 // Yijia Xu
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
@@ -883,7 +881,6 @@ IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,200472 // xiao yuqing
-IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,214610 // YangXu Liao
 IP-ASN,214704 // Xin Zhao
 IP-ASN,151673 // Chen Xinyu
@@ -899,7 +896,6 @@ IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
 IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
-IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
