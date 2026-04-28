@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-28 02:03:59.158Z
+# 最后更新： CST 2026-04-29 02:16:30.630Z
 # ASN: 907
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -242,7 +242,6 @@ IP-ASN,58777 // ChinaTelecom Cybersecurity Tech
 IP-ASN,134238 // CHINANET Jiangx province IDC network
 IP-ASN,139201 // China Telecom
 IP-ASN,149837 // China Telecom
-IP-ASN,18245 // CNNIC
 IP-ASN,63620 // "ShenZhen HuaBo Technology Develop Co.
 IP-ASN,37937 // China eGovNet Information Center
 IP-ASN,152120 // China Unicom
@@ -903,6 +902,7 @@ IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,205369 // LI YIRAN
+IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
