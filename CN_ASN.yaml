@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-29 02:16:30.630Z
-# ASN: 907
+# 最后更新： CST 2026-04-30 02:10:59.719Z
+# ASN: 909
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -243,6 +243,7 @@ payload:
   - IP-ASN,134238,no-resolve
   - IP-ASN,139201,no-resolve
   - IP-ASN,149837,no-resolve
+  - IP-ASN,18245,no-resolve
   - IP-ASN,63620,no-resolve
   - IP-ASN,37937,no-resolve
   - IP-ASN,152120,no-resolve
@@ -300,6 +301,7 @@ payload:
   - IP-ASN,131482,no-resolve
   - IP-ASN,63646,no-resolve
   - IP-ASN,151295,no-resolve
+  - IP-ASN,59057,no-resolve
   - IP-ASN,63629,no-resolve
   - IP-ASN,63631,no-resolve
   - IP-ASN,63634,no-resolve
@@ -332,7 +334,6 @@ payload:
   - IP-ASN,138029,no-resolve
   - IP-ASN,137785,no-resolve
   - IP-ASN,139138,no-resolve
-  - IP-ASN,58026,no-resolve
   - IP-ASN,137758,no-resolve
   - IP-ASN,137571,no-resolve
   - IP-ASN,136197,no-resolve
@@ -379,7 +380,8 @@ payload:
   - IP-ASN,151232,no-resolve
   - IP-ASN,133118,no-resolve
   - IP-ASN,151313,no-resolve
-  - IP-ASN,136195,no-resolve
+  - IP-ASN,63696,no-resolve
+  - IP-ASN,151270,no-resolve
   - IP-ASN,58854,no-resolve
   - IP-ASN,59073,no-resolve
   - IP-ASN,133475,no-resolve
@@ -461,7 +463,6 @@ payload:
   - IP-ASN,24422,no-resolve
   - IP-ASN,38381,no-resolve
   - IP-ASN,17775,no-resolve
-  - IP-ASN,63641,no-resolve
   - IP-ASN,153726,no-resolve
   - IP-ASN,131536,no-resolve
   - IP-ASN,139721,no-resolve
@@ -471,6 +472,7 @@ payload:
   - IP-ASN,63593,no-resolve
   - IP-ASN,154315,no-resolve
   - IP-ASN,59078,no-resolve
+  - IP-ASN,136195,no-resolve
   - IP-ASN,151251,no-resolve
   - IP-ASN,151247,no-resolve
   - IP-ASN,137787,no-resolve
@@ -478,7 +480,6 @@ payload:
   - IP-ASN,24149,no-resolve
   - IP-ASN,9939,no-resolve
   - IP-ASN,63617,no-resolve
-  - IP-ASN,211265,no-resolve
   - IP-ASN,63538,no-resolve
   - IP-ASN,37969,no-resolve
   - IP-ASN,135426,no-resolve
@@ -595,6 +596,7 @@ payload:
   - IP-ASN,139090,no-resolve
   - IP-ASN,24144,no-resolve
   - IP-ASN,24239,no-resolve
+  - IP-ASN,63641,no-resolve
   - IP-ASN,139161,no-resolve
   - IP-ASN,139112,no-resolve
   - IP-ASN,24372,no-resolve
@@ -850,6 +852,7 @@ payload:
   - IP-ASN,205603,no-resolve
   - IP-ASN,205618,no-resolve
   - IP-ASN,205532,no-resolve
+  - IP-ASN,49904,no-resolve
   - IP-ASN,215007,no-resolve
   - IP-ASN,207615,no-resolve
   - IP-ASN,209586,no-resolve
@@ -886,7 +889,6 @@ payload:
   - IP-ASN,214610,no-resolve
   - IP-ASN,214704,no-resolve
   - IP-ASN,151673,no-resolve
-  - IP-ASN,215832,no-resolve
   - IP-ASN,213116,no-resolve
   - IP-ASN,205779,no-resolve
   - IP-ASN,212793,no-resolve
