@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-04-30 02:10:59.719Z
-# ASN: 909
+# 最后更新： CST 2026-05-01 02:09:21.447Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -264,9 +264,9 @@ IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
+IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
-IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,213876 // Qiyuan Chen
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,212164 // Jiaxian He
@@ -462,6 +462,7 @@ IP-ASN,138371 // China Education and Research Network (CERNET)
 IP-ASN,24422 // "Huizhan street
 IP-ASN,38381 // "west wing no.157
 IP-ASN,17775 // shanghai science and technology network communication limited company
+IP-ASN,63641 // "Mega Vantage Information Consulting Co.
 IP-ASN,153726 // "Shanghai Huiduan Technology Co.
 IP-ASN,131536 // "Shanghai Great Wall Broadband Network Service Co.
 IP-ASN,139721 // China Telecom
@@ -595,7 +596,6 @@ IP-ASN,18257 // "ChangZhou Bitcomm Software Technology Co.
 IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
 IP-ASN,24239 // TWD2 Education and Research Network
-IP-ASN,63641 // "Mega Vantage Information Consulting Co.
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
@@ -877,6 +877,7 @@ IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,203309 // Liangyi Ma
+IP-ASN,198266 // Yunrui Gu
 IP-ASN,210352 // Yijia Xu
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
@@ -900,6 +901,7 @@ IP-ASN,212985 // Mingjie Wu
 IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
+IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
