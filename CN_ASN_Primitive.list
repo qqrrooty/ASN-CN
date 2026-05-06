@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-06 02:10:29.311Z
-# ASN: 912
+# 最后更新： CST 2026-05-07 02:15:47.260Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -29,7 +29,6 @@ IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
-IP-ASN,212053 // ShiJI Tong
 IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
@@ -171,7 +170,7 @@ IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
 IP-ASN,139769 // Guangzhou LinSeek Network Technology Co.Ltd
-IP-ASN,136160 // "Tianjin Shi Shi Ji Hulian Yuntong Network Technology Co.
+IP-ASN,136160 // 92host Limited
 IP-ASN,134542 // China Unicom IP network
 IP-ASN,59083 // "Shanghai Kuanhui Tech. Co.
 IP-ASN,45110 // Beijing Tian Wei Xin Tong technology corp. limited.
@@ -300,7 +299,6 @@ IP-ASN,139177 // New Oriental Education & Technology Group Ltd.
 IP-ASN,131482 // "Hangzhou Aron Teconology Co.
 IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,151295 // China Internet Network Information Center
-IP-ASN,59057 // "Jishi Media Co .
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
 IP-ASN,63631 // "Guangdong Cloudbase Technology Co.
 IP-ASN,63634 // "China Payment & Clearing Network Co.
@@ -380,7 +378,6 @@ IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
-IP-ASN,63696 // "China Securities Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
@@ -581,6 +578,7 @@ IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
 IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
+IP-ASN,151331 // Sora You
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,55641 // "Beijing CNISP Technology Co.
@@ -669,7 +667,6 @@ IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,132479 // Xue Desen
 IP-ASN,150373 // Zhang Bocheng
-IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,132623 // Tsukeru Networks
 IP-ASN,139231 // Zero
@@ -858,6 +855,7 @@ IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
+IP-ASN,212053 // ShiJI Tong
 IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
@@ -888,6 +886,7 @@ IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
+IP-ASN,198135 // YONG LI
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
