@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-08 02:23:30.069Z
-# ASN: 900
+# 最后更新： CST 2026-05-09 02:09:51.622Z
+# ASN: 910
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -65,6 +65,7 @@ payload:
   - IP-ASN,134543,no-resolve
   - IP-ASN,17623,no-resolve
   - IP-ASN,17622,no-resolve
+  - IP-ASN,136958,no-resolve
   - IP-ASN,17789,no-resolve
   - IP-ASN,56013,no-resolve
   - IP-ASN,17621,no-resolve
@@ -233,7 +234,6 @@ payload:
   - IP-ASN,24350,no-resolve
   - IP-ASN,134770,no-resolve
   - IP-ASN,134769,no-resolve
-  - IP-ASN,136958,no-resolve
   - IP-ASN,140309,no-resolve
   - IP-ASN,134773,no-resolve
   - IP-ASN,141025,no-resolve
@@ -267,6 +267,7 @@ payload:
   - IP-ASN,134413,no-resolve
   - IP-ASN,216224,no-resolve
   - IP-ASN,213876,no-resolve
+  - IP-ASN,212053,no-resolve
   - IP-ASN,152920,no-resolve
   - IP-ASN,212164,no-resolve
   - IP-ASN,154402,no-resolve
@@ -751,6 +752,16 @@ payload:
   - IP-ASN,140313,no-resolve
   - IP-ASN,140315,no-resolve
   - IP-ASN,140314,no-resolve
+  - IP-ASN,140648,no-resolve
+  - IP-ASN,140649,no-resolve
+  - IP-ASN,140650,no-resolve
+  - IP-ASN,140651,no-resolve
+  - IP-ASN,140652,no-resolve
+  - IP-ASN,140653,no-resolve
+  - IP-ASN,140654,no-resolve
+  - IP-ASN,140655,no-resolve
+  - IP-ASN,140656,no-resolve
+  - IP-ASN,140657,no-resolve
   - IP-ASN,140328,no-resolve
   - IP-ASN,140331,no-resolve
   - IP-ASN,140332,no-resolve
@@ -846,7 +857,6 @@ payload:
   - IP-ASN,215007,no-resolve
   - IP-ASN,207615,no-resolve
   - IP-ASN,209586,no-resolve
-  - IP-ASN,212053,no-resolve
   - IP-ASN,200720,no-resolve
   - IP-ASN,215969,no-resolve
   - IP-ASN,209261,no-resolve
