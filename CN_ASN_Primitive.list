@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-09 02:09:51.622Z
-# ASN: 910
+# 最后更新： CST 2026-05-10 01:50:51.846Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -64,7 +64,6 @@ IP-ASN,136959 // China Unicom Guangdong IP network
 IP-ASN,134543 // China Unicom Guangdong IP network
 IP-ASN,17623 // China Unicom Shenzen network
 IP-ASN,17622 // China Unicom Guangzhou network
-IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,17789 // CNCGROUP IP network of ShangHai IDC
 IP-ASN,56013 // SAMSUNG SDS CHINA
 IP-ASN,17621 // China Unicom Shanghai network
@@ -208,6 +207,7 @@ IP-ASN,63701 // "Jishi Media Co .
 IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
+IP-ASN,58854 // Kaopu Cloud
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
@@ -233,6 +233,7 @@ IP-ASN,24139 // Huashu media&Network Limited
 IP-ASN,24350 // CERNET2 IX at Beijing University of Posts and Telecommunications
 IP-ASN,134770 // CHINANET Jiangsu province Suzhou taihu IDC network
 IP-ASN,134769 // ChinaNet Jiangsu Changzhou Liyang IDC network
+IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,140309 // China Telecom
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
 IP-ASN,141025 // China Telecom
@@ -379,7 +380,6 @@ IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,151270 // China Internet Network Information Center
-IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
@@ -913,3 +913,4 @@ IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201705 // Xinrun Li
 IP-ASN,201235 // Chen Xi
+IP-ASN,197817 // Yunxiao Bai
