@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-11 01:51:57.894Z
+# 最后更新： CST 2026-05-12 02:57:47.667Z
 # ASN: 909
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -578,6 +578,7 @@ payload:
   - IP-ASN,38323
   - IP-ASN,204856
   - IP-ASN,151951
+  - IP-ASN,151331
   - IP-ASN,216173
   - IP-ASN,9425
   - IP-ASN,55641
@@ -601,7 +602,6 @@ payload:
   - IP-ASN,139317
   - IP-ASN,142438
   - IP-ASN,151418
-  - IP-ASN,210352
   - IP-ASN,140731
   - IP-ASN,151187
   - IP-ASN,140682
@@ -666,7 +666,6 @@ payload:
   - IP-ASN,142586
   - IP-ASN,132479
   - IP-ASN,150373
-  - IP-ASN,151331
   - IP-ASN,142642
   - IP-ASN,151490
   - IP-ASN,132623
@@ -821,6 +820,7 @@ payload:
   - IP-ASN,214955
   - IP-ASN,214933
   - IP-ASN,208754
+  - IP-ASN,210352
   - IP-ASN,209481
   - IP-ASN,204211
   - IP-ASN,206574
