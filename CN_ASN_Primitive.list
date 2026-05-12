@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-12 02:57:47.667Z
+# 最后更新： CST 2026-05-13 02:54:56.269Z
 # ASN: 909
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -207,7 +207,6 @@ IP-ASN,63701 // "Jishi Media Co .
 IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
-IP-ASN,58854 // Kaopu Cloud
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
@@ -380,6 +379,7 @@ IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,151270 // China Internet Network Information Center
+IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
@@ -491,6 +491,7 @@ IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
 IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
+IP-ASN,141776 // Baoshuo Network
 IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
 IP-ASN,201674 // Wen ZhangYu
@@ -598,6 +599,7 @@ IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
+IP-ASN,24363 // CERNET2 IX at Shandong University
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
@@ -648,7 +650,6 @@ IP-ASN,152922 // Zhang Fuyu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
@@ -668,7 +669,6 @@ IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
 IP-ASN,151490 // GaonIT
 IP-ASN,132623 // Tsukeru Networks
-IP-ASN,141776 // Baoshuo Network
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
@@ -796,7 +796,6 @@ IP-ASN,140532 // China Telecom
 IP-ASN,140533 // China Telecom
 IP-ASN,140534 // China Telecom
 IP-ASN,140535 // China Telecom
-IP-ASN,140537 // China Telecom
 IP-ASN,140536 // China Telecom
 IP-ASN,140538 // China Telecom
 IP-ASN,140364 // CHINATELECOM Hunan province 5G Core Network 5G network
@@ -859,6 +858,7 @@ IP-ASN,209586 // SUNYOU PAN
 IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
+IP-ASN,210426 // Liang Zhu
 IP-ASN,198516 // Yi Huang
 IP-ASN,214921 // Yisong Wang
 IP-ASN,214871 // Jiping Yu
@@ -878,6 +878,7 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,198266 // Yunrui Gu
+IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
@@ -890,7 +891,6 @@ IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
-IP-ASN,199353 // Gao Yuheng
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
