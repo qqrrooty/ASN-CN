@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-14 02:56:44.240Z
-# ASN: 909
+# 最后更新： CST 2026-05-15 02:53:27.297Z
+# ASN: 908
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -603,6 +603,7 @@ IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
+IP-ASN,210352 // Yijia Xu
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
@@ -650,7 +651,6 @@ IP-ASN,152922 // Zhang Fuyu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
@@ -820,7 +820,6 @@ IP-ASN,204518 // Shiyu Zhou
 IP-ASN,214955 // Weikang Zeng
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
-IP-ASN,210352 // Yijia Xu
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
