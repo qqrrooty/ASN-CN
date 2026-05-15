@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-15 02:53:27.297Z
-# ASN: 908
+# 最后更新： CST 2026-05-16 02:22:38.877Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -52,6 +52,7 @@ IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
+IP-ASN,58854 // Kaopu Cloud
 IP-ASN,63614 // "A4
 IP-ASN,23650 // China Telecom
 IP-ASN,137266 // China Telecom
@@ -339,7 +340,6 @@ IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,137759 // "MTS SYSTEM (China) Co.
 IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
 IP-ASN,135363 // "Chongqing Fuxuan Information Technology Co.
-IP-ASN,138545 // "Zero Cirrus Cloud Computing (Shanghai) Co.
 IP-ASN,139266 // "Guangzhou Tiansui Information Technology Co.
 IP-ASN,136766 // "ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO.
 IP-ASN,139726 // "Guangdong Yunjie Communication Co.
@@ -347,6 +347,7 @@ IP-ASN,139179 // "China Pacific Insurance (Group) Co.
 IP-ASN,139178 // Rural Credit Banks Funds Clearing Center
 IP-ASN,139148 // "China UnionPay Co.
 IP-ASN,139799 // "Beijing Dajia Internet Information Technology Co.
+IP-ASN,138545 // "Zero Cirrus Cloud Computing (Shanghai) Co.
 IP-ASN,139154 // Big Data Center Of Shandong Province
 IP-ASN,140633 // BILIBILI HK LIMITED
 IP-ASN,139139 // Shenyang Agricultural University
@@ -379,7 +380,6 @@ IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,151270 // China Internet Network Information Center
-IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
@@ -651,6 +651,7 @@ IP-ASN,152922 // Zhang Fuyu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
+IP-ASN,213903 // Liuyang Zhang
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
@@ -875,6 +876,7 @@ IP-ASN,216299 // Yang Liuchang
 IP-ASN,213891 // Liu Zhen
 IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
+IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,198266 // Yunrui Gu
@@ -911,3 +913,4 @@ IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201705 // Xinrun Li
 IP-ASN,201235 // Chen Xi
+IP-ASN,197817 // Yunxiao Bai
