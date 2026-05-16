@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-16 02:22:38.877Z
+# 最后更新： CST 2026-05-17 01:55:01.633Z
 # ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -279,7 +279,6 @@ IP-ASN,45075 // China Central Television
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
 IP-ASN,56003 // "Beijing Century Union Network Technology Co.
 IP-ASN,56002 // BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
-IP-ASN,38057 // "Dell (China) Co.
 IP-ASN,4859 // The State Information Center of P.R.China
 IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
 IP-ASN,55966 // "Post Savings Bank of China Tower A
@@ -470,6 +469,7 @@ IP-ASN,9802 // Abitcool(China) Inc.
 IP-ASN,9814 // "Beijing FibrLINK Networks Co.
 IP-ASN,18242 // "Chengdu Information Harbor Co.
 IP-ASN,63593 // HeyTap PTE.LTD.
+IP-ASN,38057 // "Dell (China) Co.
 IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
@@ -819,7 +819,6 @@ IP-ASN,140378 // China Telecom
 IP-ASN,215507 // KAI BI
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,214955 // Weikang Zeng
-IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
@@ -879,6 +878,7 @@ IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,203309 // Liangyi Ma
+IP-ASN,214933 // Bingxin Liu
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
