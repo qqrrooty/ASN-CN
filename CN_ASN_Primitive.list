@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-21 03:23:59.802Z
-# ASN: 907
+# 最后更新： CST 2026-05-22 02:58:51.087Z
+# ASN: 908
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -29,8 +29,8 @@ IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
-IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
+IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
 IP-ASN,37963 // "Hangzhou Alibaba Advertising Co.
 IP-ASN,134763 // CHINANET Guangdong province network
@@ -465,7 +465,6 @@ IP-ASN,131536 // "Shanghai Great Wall Broadband Network Service Co.
 IP-ASN,9812 // "Oriental Cable Network Co.
 IP-ASN,139721 // China Telecom
 IP-ASN,9802 // Abitcool(China) Inc.
-IP-ASN,9814 // "Beijing FibrLINK Networks Co.
 IP-ASN,18242 // "Chengdu Information Harbor Co.
 IP-ASN,63593 // HeyTap PTE.LTD.
 IP-ASN,38057 // "Dell (China) Co.
@@ -485,6 +484,7 @@ IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
+IP-ASN,136250 // ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
 IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
@@ -537,6 +537,7 @@ IP-ASN,9807 // Data Management Centre National Bureau of Statistics of China
 IP-ASN,7640 // China International Trust & Investment Corporation Management Information Center
 IP-ASN,58866 // China Financial Certification Authority
 IP-ASN,18241 // State Power Information Net
+IP-ASN,9814 // "Beijing FibrLINK Networks Co.
 IP-ASN,9803 // "Beijing Jingxun Public Information Technology Co.
 IP-ASN,9810 // "Beijing Times Netstar Technology Co.
 IP-ASN,23851 // "CHONGQING CNC BROADBAND NETWORKS CO.

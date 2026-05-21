@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-21 03:23:59.802Z
-# ASN: 907
+# 最后更新： CST 2026-05-22 02:58:51.087Z
+# ASN: 908
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -30,8 +30,8 @@ payload:
   - IP-ASN,139018,no-resolve
   - IP-ASN,139587,no-resolve
   - IP-ASN,23724,no-resolve
-  - IP-ASN,45102,no-resolve
   - IP-ASN,214848,no-resolve
+  - IP-ASN,45102,no-resolve
   - IP-ASN,24429,no-resolve
   - IP-ASN,37963,no-resolve
   - IP-ASN,134763,no-resolve
@@ -466,7 +466,6 @@ payload:
   - IP-ASN,9812,no-resolve
   - IP-ASN,139721,no-resolve
   - IP-ASN,9802,no-resolve
-  - IP-ASN,9814,no-resolve
   - IP-ASN,18242,no-resolve
   - IP-ASN,63593,no-resolve
   - IP-ASN,38057,no-resolve
@@ -486,6 +485,7 @@ payload:
   - IP-ASN,135426,no-resolve
   - IP-ASN,151277,no-resolve
   - IP-ASN,136769,no-resolve
+  - IP-ASN,136250,no-resolve
   - IP-ASN,24349,no-resolve
   - IP-ASN,153725,no-resolve
   - IP-ASN,137264,no-resolve
@@ -538,6 +538,7 @@ payload:
   - IP-ASN,7640,no-resolve
   - IP-ASN,58866,no-resolve
   - IP-ASN,18241,no-resolve
+  - IP-ASN,9814,no-resolve
   - IP-ASN,9803,no-resolve
   - IP-ASN,9810,no-resolve
   - IP-ASN,23851,no-resolve
