@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-23 02:53:46.376Z
-# ASN: 910
+# 最后更新： CST 2026-05-24 02:00:23.670Z
+# ASN: 908
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -165,9 +165,9 @@ IP-ASN,139118 // "Shanghai Rugu Info&Tech Co.
 IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,55468 // China Radio International
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -262,7 +262,6 @@ IP-ASN,140330 // China Telecom
 IP-ASN,140083 // China Telecom
 IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
-IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
@@ -460,6 +459,7 @@ IP-ASN,138371 // China Education and Research Network (CERNET)
 IP-ASN,24422 // "Huizhan street
 IP-ASN,38381 // "west wing no.157
 IP-ASN,17775 // shanghai science and technology network communication limited company
+IP-ASN,63641 // "Mega Vantage Information Consulting Co.
 IP-ASN,153726 // "Shanghai Huiduan Technology Co.
 IP-ASN,131536 // "Shanghai Great Wall Broadband Network Service Co.
 IP-ASN,9812 // "Oriental Cable Network Co.
@@ -598,7 +598,6 @@ IP-ASN,18257 // "ChangZhou Bitcomm Software Technology Co.
 IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
 IP-ASN,24239 // TWD2 Education and Research Network
-IP-ASN,63641 // "Mega Vantage Information Consulting Co.
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
@@ -676,7 +675,6 @@ IP-ASN,132623 // Tsukeru Networks
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
-IP-ASN,137721 // HENTE
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
