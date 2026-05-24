@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-24 02:00:23.670Z
+# 最后更新： CST 2026-05-25 01:58:09.994Z
 # ASN: 908
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -165,7 +165,6 @@ IP-ASN,139118 // "Shanghai Rugu Info&Tech Co.
 IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,55468 // China Radio International
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
@@ -306,6 +305,7 @@ IP-ASN,63722 // "Hodo Telecom Co
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -338,6 +338,7 @@ IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,137759 // "MTS SYSTEM (China) Co.
 IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
 IP-ASN,135363 // "Chongqing Fuxuan Information Technology Co.
+IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,139266 // "Guangzhou Tiansui Information Technology Co.
 IP-ASN,136766 // "ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO.
 IP-ASN,139726 // "Guangdong Yunjie Communication Co.
@@ -489,6 +490,7 @@ IP-ASN,136250 // ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
 IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
+IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
 IP-ASN,141776 // Baoshuo Network
@@ -584,7 +586,6 @@ IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,55641 // "Beijing CNISP Technology Co.
 IP-ASN,151276 // China Internet Network Information Center
 IP-ASN,215750 // DAQIAN HUANG
-IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,151230 // China Internet Network Information Center
 IP-ASN,151231 // China Internet Network Information Center
 IP-ASN,137256 // CatIO Network
@@ -595,7 +596,6 @@ IP-ASN,45576 // Tsinghua University
 IP-ASN,207338 // Zhang Zongyu
 IP-ASN,139859 // TemasekTech.com
 IP-ASN,18257 // "ChangZhou Bitcomm Software Technology Co.
-IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
 IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,139161 // Xinjiang Rural Credit Union
