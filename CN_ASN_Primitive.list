@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-26 02:25:14.675Z
-# ASN: 5056
+# 最后更新： CST 2026-05-27 03:21:35.751Z
+# ASN: 5055
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -76,7 +76,6 @@ IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
-IP-ASN,210176 // Haoyi Xiang
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -153,7 +152,7 @@ IP-ASN,151185 // China Telecom
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
-IP-ASN,55991 // AS55991-696
+IP-ASN,55991 // AS55991-36
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
 IP-ASN,45101 // "2-5/F
 IP-ASN,131558 // "Wal-mart (China) Investment Co.
@@ -268,7 +267,6 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
-IP-ASN,213876 // Qiyuan Chen
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212053 // ShiJI Tong
 IP-ASN,152920 // Zhao Chenglin
@@ -340,8 +338,8 @@ IP-ASN,139743 // "Shen Zhen Shi Fang Technology Co.
 IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,137759 // "MTS SYSTEM (China) Co.
 IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
-IP-ASN,137746 // AS137746-217
-IP-ASN,137745 // AS137745-216
+IP-ASN,137746 // AS137746-38
+IP-ASN,137745 // AS137745-37
 IP-ASN,135363 // "Chongqing Fuxuan Information Technology Co.
 IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,139266 // "Guangzhou Tiansui Information Technology Co.
@@ -354,7 +352,6 @@ IP-ASN,139799 // "Beijing Dajia Internet Information Technology Co.
 IP-ASN,138545 // "Zero Cirrus Cloud Computing (Shanghai) Co.
 IP-ASN,139154 // Big Data Center Of Shandong Province
 IP-ASN,140633 // BILIBILI HK LIMITED
-IP-ASN,139139 // Shenyang Agricultural University
 IP-ASN,139141 // Yusys Financial Cloud
 IP-ASN,139136 // "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.
 IP-ASN,137719 // "Qingdao Weidong Big Data Technology Co.
@@ -513,6 +510,7 @@ IP-ASN,44421 // Yifu Yu
 IP-ASN,205651 // Hao Qiao
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,151397 // China Telecom
+IP-ASN,210352 // Yijia Xu
 IP-ASN,151464 // "Shanghai Luogu Network Technology Co.
 IP-ASN,9805 // SIEMENS LTD. CHINA
 IP-ASN,24348 // CERNET2 IX at Tsinghua University
@@ -625,7 +623,6 @@ IP-ASN,141172 // Tianao Chen
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
-IP-ASN,151331 // Sora You
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,151423 // AS151423-1
@@ -689,7 +686,6 @@ IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
-IP-ASN,210352 // Yijia Xu
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
@@ -754,6 +750,7 @@ IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,132479 // Xue Desen
 IP-ASN,150373 // Zhang Bocheng
+IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,151490 // GaonIT
 IP-ASN,132623 // Tsukeru Networks
@@ -5030,6 +5027,7 @@ IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
+IP-ASN,213876 // Qiyuan Chen
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,198135 // YONG LI
@@ -5047,6 +5045,7 @@ IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
+IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207091 // Wang Junhao
 IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
