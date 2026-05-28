@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-28 03:24:20.316Z
+# 最后更新： CST 2026-05-29 03:35:25.547Z
 # ASN: 5053
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -76,6 +76,7 @@ IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
+IP-ASN,154648 // TermRat Network Limited
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -277,7 +278,6 @@ IP-ASN,45079 // GDS CHANGAN SERVICES Ltd.
 IP-ASN,149304 // "Shenzhen Qiyi Network Technology Co.
 IP-ASN,45075 // China Central Television
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
-IP-ASN,56003 // "Beijing Century Union Network Technology Co.
 IP-ASN,56002 // BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
 IP-ASN,4859 // The State Information Center of P.R.China
 IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
@@ -474,7 +474,6 @@ IP-ASN,38057 // "Dell (China) Co.
 IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
-IP-ASN,154648 // TermRat Network Limited
 IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -5003,6 +5002,7 @@ IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
 IP-ASN,210426 // Liang Zhu
+IP-ASN,198516 // Yi Huang
 IP-ASN,214921 // Yisong Wang
 IP-ASN,214871 // Jiping Yu
 IP-ASN,214613 // YANG MAN

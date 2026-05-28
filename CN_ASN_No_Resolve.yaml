@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-28 03:24:20.316Z
+# 最后更新： CST 2026-05-29 03:35:25.547Z
 # ASN: 5053
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -77,6 +77,7 @@ payload:
   - IP-ASN,133775
   - IP-ASN,134760
   - IP-ASN,210634
+  - IP-ASN,154648
   - IP-ASN,58461
   - IP-ASN,140485
   - IP-ASN,140486
@@ -278,7 +279,6 @@ payload:
   - IP-ASN,149304
   - IP-ASN,45075
   - IP-ASN,55992
-  - IP-ASN,56003
   - IP-ASN,56002
   - IP-ASN,4859
   - IP-ASN,150374
@@ -475,7 +475,6 @@ payload:
   - IP-ASN,154315
   - IP-ASN,59078
   - IP-ASN,136195
-  - IP-ASN,154648
   - IP-ASN,151251
   - IP-ASN,151247
   - IP-ASN,137787
@@ -5004,6 +5003,7 @@ payload:
   - IP-ASN,215969
   - IP-ASN,209261
   - IP-ASN,210426
+  - IP-ASN,198516
   - IP-ASN,214921
   - IP-ASN,214871
   - IP-ASN,214613

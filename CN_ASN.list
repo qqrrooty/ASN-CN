@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-28 03:24:20.316Z
+# 最后更新： CST 2026-05-29 03:35:25.547Z
 # ASN: 5053
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -76,6 +76,7 @@ IP-ASN,58772,no-resolve
 IP-ASN,133775,no-resolve
 IP-ASN,134760,no-resolve
 IP-ASN,210634,no-resolve
+IP-ASN,154648,no-resolve
 IP-ASN,58461,no-resolve
 IP-ASN,140485,no-resolve
 IP-ASN,140486,no-resolve
@@ -277,7 +278,6 @@ IP-ASN,45079,no-resolve
 IP-ASN,149304,no-resolve
 IP-ASN,45075,no-resolve
 IP-ASN,55992,no-resolve
-IP-ASN,56003,no-resolve
 IP-ASN,56002,no-resolve
 IP-ASN,4859,no-resolve
 IP-ASN,150374,no-resolve
@@ -474,7 +474,6 @@ IP-ASN,38057,no-resolve
 IP-ASN,154315,no-resolve
 IP-ASN,59078,no-resolve
 IP-ASN,136195,no-resolve
-IP-ASN,154648,no-resolve
 IP-ASN,151251,no-resolve
 IP-ASN,151247,no-resolve
 IP-ASN,137787,no-resolve
@@ -5003,6 +5002,7 @@ IP-ASN,200720,no-resolve
 IP-ASN,215969,no-resolve
 IP-ASN,209261,no-resolve
 IP-ASN,210426,no-resolve
+IP-ASN,198516,no-resolve
 IP-ASN,214921,no-resolve
 IP-ASN,214871,no-resolve
 IP-ASN,214613,no-resolve
