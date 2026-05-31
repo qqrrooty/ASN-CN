@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-05-31 02:02:38.401Z
+# 最后更新： CST 2026-06-01 02:00:54.567Z
 # ASN: 4903
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -185,6 +185,8 @@ IP-ASN,205152 // Han Dai
 IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,209300 // Wende Tan
+IP-ASN,151673 // Chen Xinyu
+IP-ASN,203309 // Liangyi Ma
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
@@ -314,6 +316,7 @@ IP-ASN,133478 // "Tencent Cloud Computing (Beijing) Co.
 IP-ASN,131567 // "Fnetlink International Co.
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,138538 // "Ningbo Nanbian Tuoluo Xinxi Jishu Co.
+IP-ASN,63603 // GSS China
 IP-ASN,137764 // Beijing Youkai Technology Co.Ltd
 IP-ASN,63718 // "Hangzhou YouYun Technology Co.
 IP-ASN,59012 // China Grain Reserves Group LTD.Company
@@ -4852,7 +4855,6 @@ IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
 IP-ASN,210426 // Liang Zhu
-IP-ASN,198516 // Yi Huang
 IP-ASN,214921 // Yisong Wang
 IP-ASN,214871 // Jiping Yu
 IP-ASN,214613 // YANG MAN
@@ -4869,7 +4871,6 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
-IP-ASN,203309 // Liangyi Ma
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
@@ -4901,7 +4902,6 @@ IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201705 // Xinrun Li
 IP-ASN,201235 // Chen Xi
