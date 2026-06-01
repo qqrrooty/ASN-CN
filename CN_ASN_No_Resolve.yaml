@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-01 02:00:54.567Z
-# ASN: 4903
+# 最后更新： CST 2026-06-02 04:57:44.942Z
+# ASN: 4904
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -188,6 +188,7 @@ payload:
   - IP-ASN,209300
   - IP-ASN,151673
   - IP-ASN,203309
+  - IP-ASN,212532
   - IP-ASN,135671
   - IP-ASN,133846
   - IP-ASN,7721
@@ -4834,7 +4835,6 @@ payload:
   - IP-ASN,202256
   - IP-ASN,216056
   - IP-ASN,200853
-  - IP-ASN,212532
   - IP-ASN,200268
   - IP-ASN,200809
   - IP-ASN,200256
@@ -4856,6 +4856,7 @@ payload:
   - IP-ASN,215969
   - IP-ASN,209261
   - IP-ASN,210426
+  - IP-ASN,198516
   - IP-ASN,214921
   - IP-ASN,214871
   - IP-ASN,214613
