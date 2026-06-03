@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-03 04:07:01.154Z
-# ASN: 4905
+# 最后更新： CST 2026-06-04 04:18:02.791Z
+# ASN: 4906
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -52,7 +52,7 @@ IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
-IP-ASN,58854 // Kaopu Cloud
+IP-ASN,133774 // Fuzhou
 IP-ASN,63614 // "A4
 IP-ASN,23650 // China Telecom
 IP-ASN,137266 // China Telecom
@@ -70,7 +70,6 @@ IP-ASN,56013 // SAMSUNG SDS CHINA
 IP-ASN,17621 // China Unicom Shanghai network
 IP-ASN,58539 // "Langfang
 IP-ASN,141771 // China Telecom
-IP-ASN,133774 // Fuzhou
 IP-ASN,133776 // Quanzhou
 IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
@@ -150,6 +149,7 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -270,6 +270,7 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
+IP-ASN,197176 // Chen Yulin
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212053 // ShiJI Tong
 IP-ASN,152920 // Zhao Chenglin
@@ -307,7 +308,6 @@ IP-ASN,63634 // "China Payment & Clearing Network Co.
 IP-ASN,63722 // "Hodo Telecom Co
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -384,6 +384,7 @@ IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,151270 // China Internet Network Information Center
+IP-ASN,58854 // Kaopu Cloud
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
@@ -548,9 +549,6 @@ IP-ASN,7641 // China Broadcasting TV Net
 IP-ASN,9803 // "Beijing Jingxun Public Information Technology Co.
 IP-ASN,9810 // "Beijing Times Netstar Technology Co.
 IP-ASN,23851 // "CHONGQING CNC BROADBAND NETWORKS CO.
-IP-ASN,153034 // Wang Lin
-IP-ASN,153057 // Li Ruizhi
-IP-ASN,153168 // Lu Bin
 IP-ASN,149979 // China Telecom
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
@@ -729,12 +727,15 @@ IP-ASN,139888 // Time Network
 IP-ASN,149510 // Feng Libo
 IP-ASN,153331 // Chen Wei
 IP-ASN,153333 // Fu Jiechun
+IP-ASN,153057 // Li Ruizhi
+IP-ASN,153168 // Lu Bin
 IP-ASN,153170 // Cui Hongtao
 IP-ASN,153171 // Han Jiajun
 IP-ASN,153172 // Wang Gongrui
 IP-ASN,152922 // Zhang Fuyu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
+IP-ASN,153034 // Wang Lin
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
