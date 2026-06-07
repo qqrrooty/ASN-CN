@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-07 02:04:46.689Z
-# ASN: 5061
+# 最后更新： CST 2026-06-08 02:03:14.624Z
+# ASN: 5062
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -186,7 +186,6 @@ IP-ASN,205152 // Han Dai
 IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,209300 // Wende Tan
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,135671 // RBB InfoTech
@@ -271,6 +270,7 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
+IP-ASN,197176 // Chen Yulin
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212053 // ShiJI Tong
 IP-ASN,152920 // Zhao Chenglin
@@ -278,6 +278,7 @@ IP-ASN,212164 // Jiaxian He
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
 IP-ASN,56006 // "Shanghai Pudong Development Bank Co.
 IP-ASN,45079 // GDS CHANGAN SERVICES Ltd.
+IP-ASN,149304 // "Shenzhen Qiyi Network Technology Co.
 IP-ASN,45075 // China Central Television
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
 IP-ASN,56002 // BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
@@ -352,7 +353,6 @@ IP-ASN,139148 // "China UnionPay Co.
 IP-ASN,139799 // "Beijing Dajia Internet Information Technology Co.
 IP-ASN,138545 // "Zero Cirrus Cloud Computing (Shanghai) Co.
 IP-ASN,139154 // Big Data Center Of Shandong Province
-IP-ASN,149304 // "Shenzhen Qiyi Network Technology Co.
 IP-ASN,140633 // BILIBILI HK LIMITED
 IP-ASN,139139 // Shenyang Agricultural University
 IP-ASN,139141 // Yusys Financial Cloud
@@ -5060,6 +5060,7 @@ IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201705 // Xinrun Li
 IP-ASN,201235 // Chen Xi
