@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-08 02:03:14.624Z
-# ASN: 5062
+# 最后更新： CST 2026-06-09 03:24:27.722Z
+# ASN: 5061
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -150,7 +150,6 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -186,8 +185,10 @@ IP-ASN,205152 // Han Dai
 IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,209300 // Wende Tan
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,212532 // XIAO YANG WEN RUI
+IP-ASN,205779 // Tianhang Yuan
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
@@ -309,6 +310,7 @@ IP-ASN,63634 // "China Payment & Clearing Network Co.
 IP-ASN,63722 // "Hodo Telecom Co
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -5040,7 +5042,6 @@ IP-ASN,198135 // YONG LI
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
-IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
 IP-ASN,214963 // Puhe You
@@ -5058,9 +5059,7 @@ IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
-IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201705 // Xinrun Li
 IP-ASN,201235 // Chen Xi
