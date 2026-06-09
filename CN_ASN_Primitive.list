@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-09 03:24:27.722Z
-# ASN: 5061
+# 最后更新： CST 2026-06-10 03:12:16.450Z
+# ASN: 5094
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -152,6 +152,7 @@ IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
 IP-ASN,55991 // AS55991-36
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
@@ -271,11 +272,11 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
-IP-ASN,197176 // Chen Yulin
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212053 // ShiJI Tong
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,212164 // Jiaxian He
+IP-ASN,9405 // Test platform Service Center
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
 IP-ASN,56006 // "Shanghai Pudong Development Bank Co.
 IP-ASN,45079 // GDS CHANGAN SERVICES Ltd.
@@ -297,6 +298,7 @@ IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,151261 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
+IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
 IP-ASN,132019 // "Earth network technology (Shanghai) Co.
@@ -310,7 +312,6 @@ IP-ASN,63634 // "China Payment & Clearing Network Co.
 IP-ASN,63722 // "Hodo Telecom Co
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -326,7 +327,6 @@ IP-ASN,59012 // China Grain Reserves Group LTD.Company
 IP-ASN,59074 // "TAIKANG INSURANCE GROUP CO.
 IP-ASN,137710 // "Net God Information Technology (Beijing) Co.
 IP-ASN,137806 // WMGS Consulting (Shenzhen) Co.Ltd
-IP-ASN,9405 // Test platform Service Center
 IP-ASN,137801 // "AIPO Cloud (Guizhou) Technology Co.
 IP-ASN,137798 // "5/F
 IP-ASN,63654 // BEIJING NETEAST TECHNOLOGIES CORPORATION LTD
@@ -428,6 +428,7 @@ IP-ASN,56282 // "Beijing Internet Harbor Technology Co.
 IP-ASN,140903 // China Telecom
 IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,18239 // "NO.11 Xi San Huan Zhong Road
+IP-ASN,24353 // CERNET2 IX at Xi'an Jiaotong University
 IP-ASN,58518 // China Telecom
 IP-ASN,58517 // China Telecom
 IP-ASN,137692 // "IOT Guangdong network
@@ -487,7 +488,6 @@ IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center 
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
-IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,151284 // AS151284-69
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
@@ -514,6 +514,7 @@ IP-ASN,44421 // Yifu Yu
 IP-ASN,205651 // Hao Qiao
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,151397 // China Telecom
+IP-ASN,210352 // Yijia Xu
 IP-ASN,151464 // "Shanghai Luogu Network Technology Co.
 IP-ASN,9805 // SIEMENS LTD. CHINA
 IP-ASN,24348 // CERNET2 IX at Tsinghua University
@@ -559,7 +560,6 @@ IP-ASN,149178 // China Telecom
 IP-ASN,132833 // China Telecom
 IP-ASN,56000 // "HERBALIFE(SHANGHAI)MANAGEMENT CO.
 IP-ASN,23910 // China Next Generation Internet CERNET2
-IP-ASN,24353 // CERNET2 IX at Xi'an Jiaotong University
 IP-ASN,138376 // China Education and Research Network (CERNET)
 IP-ASN,138377 // China Education and Research Network (CERNET)
 IP-ASN,138381 // China Education and Research Network (CERNET)
@@ -627,6 +627,7 @@ IP-ASN,141172 // Tianao Chen
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
+IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,38587 // CERNET Internet Data Center
 IP-ASN,151331 // Sora You
 IP-ASN,216173 // Guozhen Liu
@@ -674,6 +675,7 @@ IP-ASN,151462 // AS151462-40
 IP-ASN,38355 // ChongQing Broadcast & TV Broadband IP MAN
 IP-ASN,55641 // "Beijing CNISP Technology Co.
 IP-ASN,151276 // China Internet Network Information Center
+IP-ASN,24363 // CERNET2 IX at Shandong University
 IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,151230 // China Internet Network Information Center
 IP-ASN,151231 // China Internet Network Information Center
@@ -682,8 +684,10 @@ IP-ASN,133492 // "Aiyun Technology Co.
 IP-ASN,139100 // BMW Brilliance Automotive Ltd.
 IP-ASN,135646 // Luginbash AS
 IP-ASN,45576 // Tsinghua University
+IP-ASN,24371 // CERNET2 IX at Jilin University
 IP-ASN,207338 // Zhang Zongyu
 IP-ASN,139859 // TemasekTech.com
+IP-ASN,24364 // CERNET2 IX at Shanghai Jiaotong University
 IP-ASN,18257 // "ChangZhou Bitcomm Software Technology Co.
 IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
 IP-ASN,24239 // TWD2 Education and Research Network
@@ -693,7 +697,6 @@ IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
-IP-ASN,210352 // Yijia Xu
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
@@ -776,6 +779,7 @@ IP-ASN,142657 // AS142657-8
 IP-ASN,142658 // AS142658-9
 IP-ASN,142659 // AS142659-10
 IP-ASN,142660 // AS142660-11
+IP-ASN,142661 // AS142661-12
 IP-ASN,142662 // AS142662-13
 IP-ASN,142663 // AS142663-14
 IP-ASN,142664 // AS142664-15
@@ -2814,7 +2818,14 @@ IP-ASN,144696 // AS144696-511
 IP-ASN,144697 // AS144697-512
 IP-ASN,144698 // AS144698-1
 IP-ASN,144699 // AS144699-2
+IP-ASN,144700 // AS144700-3
+IP-ASN,144701 // AS144701-4
 IP-ASN,144702 // AS144702-5
+IP-ASN,144703 // AS144703-6
+IP-ASN,144704 // AS144704-7
+IP-ASN,144705 // AS144705-8
+IP-ASN,144706 // AS144706-9
+IP-ASN,144707 // AS144707-10
 IP-ASN,144708 // AS144708-11
 IP-ASN,144709 // AS144709-12
 IP-ASN,144710 // AS144710-13
@@ -2834,6 +2845,28 @@ IP-ASN,144723 // AS144723-26
 IP-ASN,144724 // AS144724-27
 IP-ASN,144725 // AS144725-28
 IP-ASN,144726 // AS144726-29
+IP-ASN,144727 // AS144727-30
+IP-ASN,144728 // AS144728-31
+IP-ASN,144729 // AS144729-32
+IP-ASN,144730 // AS144730-33
+IP-ASN,144731 // AS144731-34
+IP-ASN,144732 // AS144732-35
+IP-ASN,144733 // AS144733-36
+IP-ASN,144734 // AS144734-37
+IP-ASN,144735 // AS144735-38
+IP-ASN,144736 // AS144736-39
+IP-ASN,144737 // AS144737-40
+IP-ASN,144738 // AS144738-41
+IP-ASN,144739 // AS144739-42
+IP-ASN,144740 // AS144740-43
+IP-ASN,144741 // AS144741-44
+IP-ASN,144742 // AS144742-45
+IP-ASN,144743 // AS144743-46
+IP-ASN,144744 // AS144744-47
+IP-ASN,144745 // AS144745-48
+IP-ASN,144746 // AS144746-49
+IP-ASN,144747 // AS144747-50
+IP-ASN,144748 // AS144748-51
 IP-ASN,144749 // AS144749-52
 IP-ASN,144750 // AS144750-53
 IP-ASN,144751 // AS144751-54
