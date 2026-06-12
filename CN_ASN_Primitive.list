@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-12 03:35:50
-# ASN: 5090
+# 最后更新： CST 2026-06-13 03:04:05.646Z
+# ASN: 5092
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -277,6 +277,7 @@ IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,141445 // Phoenix Network
+IP-ASN,134488 // CTJ's Global Network
 IP-ASN,212164 // Jiaxian He
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -486,7 +487,6 @@ IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
-IP-ASN,134488 // CTJ's Global Network
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
@@ -5010,6 +5010,7 @@ IP-ASN,209645 // Jixian Zeng
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
+IP-ASN,219480 // shuai wang
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
@@ -5072,6 +5073,7 @@ IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
+IP-ASN,219489 // Zhengda Li
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
