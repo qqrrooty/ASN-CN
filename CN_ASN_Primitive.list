@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-13 03:04:05.646Z
+# 最后更新： CST 2026-06-14 02:06:41.802Z
 # ASN: 5092
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -150,7 +150,7 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
+IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -170,6 +170,7 @@ IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,55468 // China Radio International
+IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -298,7 +299,6 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
-IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
@@ -315,6 +315,7 @@ IP-ASN,63634 // "China Payment & Clearing Network Co.
 IP-ASN,63722 // "Hodo Telecom Co
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -625,7 +626,6 @@ IP-ASN,211992 // Wei Tang
 IP-ASN,214740 // WENTAO FEI
 IP-ASN,59265 // China telecom â China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
-IP-ASN,140043 // "Guangzhou Jinggong Information Technology Co.
 IP-ASN,141172 // Tianao Chen
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
@@ -5011,6 +5011,7 @@ IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,219480 // shuai wang
+IP-ASN,219519 // JiaYang Li
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
@@ -5060,7 +5061,6 @@ IP-ASN,202396 // Zeng Yukai
 IP-ASN,211575 // Rui Feng
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,198266 // Yunrui Gu
-IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,213876 // Qiyuan Chen
