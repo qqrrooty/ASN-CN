@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-15 02:11:37.940Z
-# ASN: 5092
+# 最后更新： CST 2026-06-16 04:25:57.895Z
+# ASN: 5093
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421,no-resolve
@@ -150,6 +150,7 @@ IP-ASN,133865,no-resolve
 IP-ASN,59037,no-resolve
 IP-ASN,137691,no-resolve
 IP-ASN,151185,no-resolve
+IP-ASN,153911,no-resolve
 IP-ASN,151300,no-resolve
 IP-ASN,140717,no-resolve
 IP-ASN,140716,no-resolve
@@ -191,6 +192,7 @@ IP-ASN,209300,no-resolve
 IP-ASN,151673,no-resolve
 IP-ASN,203309,no-resolve
 IP-ASN,212532,no-resolve
+IP-ASN,215502,no-resolve
 IP-ASN,135671,no-resolve
 IP-ASN,133846,no-resolve
 IP-ASN,7721,no-resolve
@@ -543,7 +545,6 @@ IP-ASN,45071,no-resolve
 IP-ASN,56012,no-resolve
 IP-ASN,24141,no-resolve
 IP-ASN,24424,no-resolve
-IP-ASN,199406,no-resolve
 IP-ASN,17776,no-resolve
 IP-ASN,38358,no-resolve
 IP-ASN,9306,no-resolve
@@ -5012,7 +5013,6 @@ IP-ASN,214203,no-resolve
 IP-ASN,214040,no-resolve
 IP-ASN,219480,no-resolve
 IP-ASN,219519,no-resolve
-IP-ASN,215502,no-resolve
 IP-ASN,200959,no-resolve
 IP-ASN,203655,no-resolve
 IP-ASN,200890,no-resolve
@@ -5073,6 +5073,7 @@ IP-ASN,213116,no-resolve
 IP-ASN,205779,no-resolve
 IP-ASN,212793,no-resolve
 IP-ASN,60666,no-resolve
+IP-ASN,199406,no-resolve
 IP-ASN,219489,no-resolve
 IP-ASN,214963,no-resolve
 IP-ASN,213700,no-resolve

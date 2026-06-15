@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-15 02:11:37.940Z
-# ASN: 5092
+# 最后更新： CST 2026-06-16 04:25:57.895Z
+# ASN: 5093
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -150,6 +150,7 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
+IP-ASN,153911 // DuoTu Cloud
 IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
@@ -191,6 +192,7 @@ IP-ASN,209300 // Wende Tan
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,212532 // XIAO YANG WEN RUI
+IP-ASN,215502 // Xing Qingyu
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
@@ -543,7 +545,6 @@ IP-ASN,45071 // "No.8 Xing Guang 5th Street
 IP-ASN,56012 // LGNET China
 IP-ASN,24141 // "Shanghai DMT Information Network cor.
 IP-ASN,24424 // "Beijing Gu Xiang Information Technology Co.
-IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,17776 // China Enterprise ICT Solutions Limited
 IP-ASN,38358 // "3 Fuxing Road
 IP-ASN,9306 // "RongHua Road No.11
@@ -5012,7 +5013,6 @@ IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,219480 // shuai wang
 IP-ASN,219519 // JiaYang Li
-IP-ASN,215502 // Xing Qingyu
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
@@ -5073,6 +5073,7 @@ IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
+IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,219489 // Zhengda Li
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
