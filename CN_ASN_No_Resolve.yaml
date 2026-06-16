@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-16 04:25:57.895Z
-# ASN: 5093
+# 最后更新： CST 2026-06-17 04:12:23.990Z
+# ASN: 5092
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -5057,7 +5057,6 @@ payload:
   - IP-ASN,213891
   - IP-ASN,215848
   - IP-ASN,212982
-  - IP-ASN,213545
   - IP-ASN,202396
   - IP-ASN,211575
   - IP-ASN,214933
