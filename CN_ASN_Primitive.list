@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-06-19 03:27:13.540Z
+# 最后更新： CST 2026-06-20 02:54:22.263Z
 # ASN: 5090
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -29,6 +29,7 @@ IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
+IP-ASN,152631 // Xyhelper Inc
 IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
@@ -270,8 +271,8 @@ IP-ASN,140329 // China Telecom
 IP-ASN,140330 // China Telecom
 IP-ASN,140083 // China Telecom
 IP-ASN,9394 // China TieTong Telecommunications Corporation
-IP-ASN,210176 // Haoyi Xiang
 IP-ASN,141429 // Agatha Network
+IP-ASN,210176 // Haoyi Xiang
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
@@ -282,6 +283,7 @@ IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,141445 // Phoenix Network
 IP-ASN,134488 // CTJ's Global Network
+IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -510,6 +512,7 @@ IP-ASN,38027 // "Information Center
 IP-ASN,141776 // Baoshuo Network
 IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
+IP-ASN,152922 // Zhang Fuyu
 IP-ASN,201674 // Wen ZhangYu
 IP-ASN,134417 // Nanjing
 IP-ASN,24376 // Yahoo Inc.
@@ -736,7 +739,6 @@ IP-ASN,153168 // Lu Bin
 IP-ASN,153170 // Cui Hongtao
 IP-ASN,153171 // Han Jiajun
 IP-ASN,153172 // Wang Gongrui
-IP-ASN,152922 // Zhang Fuyu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
@@ -751,9 +753,7 @@ IP-ASN,213903 // Liuyang Zhang
 IP-ASN,152134 // Zoro Limited
 IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
 IP-ASN,139791 // Langfang Wopai Communications Co Ltd
-IP-ASN,152631 // Xyhelper Inc
 IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
-IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
