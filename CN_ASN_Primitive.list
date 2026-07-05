@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-05 02:01:14.931Z
+# 最后更新： CST 2026-07-06 02:02:07.957Z
 # ASN: 5091
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -51,6 +51,7 @@ IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,140318 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
+IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
@@ -275,7 +276,6 @@ IP-ASN,134425 // China Telecom
 IP-ASN,140329 // China Telecom
 IP-ASN,140083 // China Telecom
 IP-ASN,9394 // China TieTong Telecommunications Corporation
-IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,141445 // Phoenix Network
 IP-ASN,132479 // Xue Desen
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
@@ -5003,6 +5003,7 @@ IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
+IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
@@ -5033,7 +5034,6 @@ IP-ASN,209556 // Benli Zhong
 IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
 IP-ASN,205532 // Zichao Heng
-IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
