@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-06 02:02:07.957Z
-# ASN: 5091
+# 最后更新： CST 2026-07-07 02:55:34.646Z
+# ASN: 5094
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -31,6 +31,7 @@ IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
 IP-ASN,152631 // Xyhelper Inc
+IP-ASN,152672 // Aiyun (HK) Network
 IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
@@ -192,9 +193,9 @@ IP-ASN,205152 // Han Dai
 IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,209300 // Wende Tan
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,212532 // XIAO YANG WEN RUI
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
@@ -279,6 +280,7 @@ IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,141445 // Phoenix Network
 IP-ASN,132479 // Xue Desen
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
+IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,134413 // KMNIX LLC
@@ -324,6 +326,7 @@ IP-ASN,63722 // "Hodo Telecom Co
 IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
+IP-ASN,137995 // "Shuangyu Communications Technology Co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -639,7 +642,6 @@ IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
 IP-ASN,38587 // CERNET Internet Data Center
-IP-ASN,151331 // Sora You
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,151423 // AS151423-1
@@ -756,6 +758,7 @@ IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
 IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
+IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,132623 // Tsukeru Networks
 IP-ASN,139231 // Zero
