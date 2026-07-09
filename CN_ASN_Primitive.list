@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-09 02:17:00.722Z
-# ASN: 5098
+# 最后更新： CST 2026-07-10 02:50:44.544Z
+# ASN: 5097
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -212,6 +212,7 @@ IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
+IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,205610 // Huanjie Zhu
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
 IP-ASN,55967 // "Beijing Baidu Netcom Science and Technology Co.
@@ -277,9 +278,7 @@ IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,141445 // Phoenix Network
 IP-ASN,132479 // Xue Desen
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
-IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
-IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
@@ -706,6 +705,7 @@ IP-ASN,140731 // TOHU Public Internet
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,139216 // Tianhai InfoTech
+IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,150184 // Chen Chi
@@ -5011,7 +5011,6 @@ IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,219480 // shuai wang
-IP-ASN,219519 // JiaYang Li
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
