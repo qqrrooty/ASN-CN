@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-12 01:54:59.684Z
-# ASN: 5093
+# 最后更新： CST 2026-07-13 01:58:22.646Z
+# ASN: 5094
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -194,6 +194,8 @@ IP-ASN,209300 // Wende Tan
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215502 // Xing Qingyu
+IP-ASN,208754 // XingRui Li
+IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
@@ -496,6 +498,7 @@ IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center 
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,137436 // Cong Pengbo
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
+IP-ASN,211265 // GUI JIANG
 IP-ASN,151284 // AS151284-69
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
@@ -5000,7 +5003,6 @@ IP-ASN,215507 // KAI BI
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,213876 // Qiyuan Chen
 IP-ASN,214955 // Weikang Zeng
-IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,49904 // Xiaodong Qi
@@ -5038,8 +5040,8 @@ IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
 IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
-IP-ASN,209261 // Qiao Jiang
 IP-ASN,219283 // Haohao Zhang
+IP-ASN,209261 // Qiao Jiang
 IP-ASN,219378 // ZHANG XIYUAN
 IP-ASN,210426 // Liang Zhu
 IP-ASN,198516 // Yi Huang
@@ -5078,7 +5080,6 @@ IP-ASN,212793 // Xiwei Ye
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
-IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
