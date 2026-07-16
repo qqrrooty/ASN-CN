@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-16 02:06:23.434Z
-# ASN: 5093
+# 最后更新： CST 2026-07-17 02:05:50.079Z
+# ASN: 5095
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -307,7 +307,6 @@ IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
-IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -397,6 +396,7 @@ IP-ASN,136180 // "Beijing Tiantexin Tech. Co.
 IP-ASN,63561 // "China Electronics Technology Cyber Security Co.
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
+IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,63697 // "China Securities Co.
@@ -495,6 +495,7 @@ IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
+IP-ASN,219300 // Yan Xiangdong
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
 IP-ASN,151284 // AS151284-69
@@ -548,6 +549,7 @@ IP-ASN,38564 // NVIDIA HONG KONG DEVELOPMENT LIMITED
 IP-ASN,24147 // "BEIJING CBD TELECOM CO
 IP-ASN,23842 // Shenzhen Information and Network Center
 IP-ASN,17739 // Shanghai Telecom Haplink Network Co Ltd (Haplink)
+IP-ASN,58858 // China Internet Network Infomation Center
 IP-ASN,45071 // "No.8 Xing Guang 5th Street
 IP-ASN,56012 // LGNET China
 IP-ASN,24141 // "Shanghai DMT Information Network cor.
