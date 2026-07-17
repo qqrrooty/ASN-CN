@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-17 02:05:50.079Z
+# 最后更新： CST 2026-07-18 02:05:09.385Z
 # ASN: 5095
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -284,7 +284,6 @@ IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
-IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,133119 // China Unicom IP network
@@ -307,6 +306,7 @@ IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
+IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -396,10 +396,10 @@ IP-ASN,136180 // "Beijing Tiantexin Tech. Co.
 IP-ASN,63561 // "China Electronics Technology Cyber Security Co.
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
-IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,63697 // "China Securities Co.
+IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
@@ -439,7 +439,6 @@ IP-ASN,56282 // "Beijing Internet Harbor Technology Co.
 IP-ASN,140903 // China Telecom
 IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
 IP-ASN,18239 // "NO.11 Xi San Huan Zhong Road
-IP-ASN,24353 // CERNET2 IX at Xi'an Jiaotong University
 IP-ASN,58518 // China Telecom
 IP-ASN,58517 // China Telecom
 IP-ASN,137692 // "IOT Guangdong network
@@ -496,6 +495,7 @@ IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,219300 // Yan Xiangdong
+IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
 IP-ASN,151284 // AS151284-69
@@ -571,11 +571,11 @@ IP-ASN,149979 // China Telecom
 IP-ASN,45074 // Data Management Centre National Bureau of Statistics of China
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
-IP-ASN,63541 // "Beijing Blue I.T Technologies Co.
 IP-ASN,149178 // China Telecom
 IP-ASN,132833 // China Telecom
 IP-ASN,56000 // "HERBALIFE(SHANGHAI)MANAGEMENT CO.
 IP-ASN,23910 // China Next Generation Internet CERNET2
+IP-ASN,24353 // CERNET2 IX at Xi'an Jiaotong University
 IP-ASN,138376 // China Education and Research Network (CERNET)
 IP-ASN,138377 // China Education and Research Network (CERNET)
 IP-ASN,138381 // China Education and Research Network (CERNET)

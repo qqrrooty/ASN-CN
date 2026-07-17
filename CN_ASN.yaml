@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-17 02:05:50.079Z
+# 最后更新： CST 2026-07-18 02:05:09.385Z
 # ASN: 5095
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -285,7 +285,6 @@ payload:
   - IP-ASN,216224,no-resolve
   - IP-ASN,213404,no-resolve
   - IP-ASN,152920,no-resolve
-  - IP-ASN,152697,no-resolve
   - IP-ASN,212164,no-resolve
   - IP-ASN,9405,no-resolve
   - IP-ASN,133119,no-resolve
@@ -308,6 +307,7 @@ payload:
   - IP-ASN,212237,no-resolve
   - IP-ASN,131574,no-resolve
   - IP-ASN,63567,no-resolve
+  - IP-ASN,151232,no-resolve
   - IP-ASN,59049,no-resolve
   - IP-ASN,139137,no-resolve
   - IP-ASN,63580,no-resolve
@@ -397,10 +397,10 @@ payload:
   - IP-ASN,63561,no-resolve
   - IP-ASN,133118,no-resolve
   - IP-ASN,139110,no-resolve
-  - IP-ASN,151232,no-resolve
   - IP-ASN,152092,no-resolve
   - IP-ASN,151313,no-resolve
   - IP-ASN,63697,no-resolve
+  - IP-ASN,151270,no-resolve
   - IP-ASN,59073,no-resolve
   - IP-ASN,133475,no-resolve
   - IP-ASN,55982,no-resolve
@@ -440,7 +440,6 @@ payload:
   - IP-ASN,140903,no-resolve
   - IP-ASN,146762,no-resolve
   - IP-ASN,18239,no-resolve
-  - IP-ASN,24353,no-resolve
   - IP-ASN,58518,no-resolve
   - IP-ASN,58517,no-resolve
   - IP-ASN,137692,no-resolve
@@ -497,6 +496,7 @@ payload:
   - IP-ASN,24149,no-resolve
   - IP-ASN,9939,no-resolve
   - IP-ASN,219300,no-resolve
+  - IP-ASN,152697,no-resolve
   - IP-ASN,63617,no-resolve
   - IP-ASN,211265,no-resolve
   - IP-ASN,151284,no-resolve
@@ -572,11 +572,11 @@ payload:
   - IP-ASN,45074,no-resolve
   - IP-ASN,37965,no-resolve
   - IP-ASN,63555,no-resolve
-  - IP-ASN,63541,no-resolve
   - IP-ASN,149178,no-resolve
   - IP-ASN,132833,no-resolve
   - IP-ASN,56000,no-resolve
   - IP-ASN,23910,no-resolve
+  - IP-ASN,24353,no-resolve
   - IP-ASN,138376,no-resolve
   - IP-ASN,138377,no-resolve
   - IP-ASN,138381,no-resolve
