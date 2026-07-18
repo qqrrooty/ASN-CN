@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-18 02:05:09.385Z
-# ASN: 5095
+# 最后更新： CST 2026-07-19 01:56:12.941Z
+# ASN: 5094
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -53,7 +53,6 @@ payload:
   - IP-ASN,137718,no-resolve
   - IP-ASN,141739,no-resolve
   - IP-ASN,146810,no-resolve
-  - IP-ASN,198588,no-resolve
   - IP-ASN,10981,no-resolve
   - IP-ASN,142433,no-resolve
   - IP-ASN,199310,no-resolve
@@ -237,7 +236,6 @@ payload:
   - IP-ASN,146834,no-resolve
   - IP-ASN,7497,no-resolve
   - IP-ASN,213605,no-resolve
-  - IP-ASN,152598,no-resolve
   - IP-ASN,153034,no-resolve
   - IP-ASN,139203,no-resolve
   - IP-ASN,139462,no-resolve
@@ -281,6 +279,7 @@ payload:
   - IP-ASN,131524,no-resolve
   - IP-ASN,214439,no-resolve
   - IP-ASN,148982,no-resolve
+  - IP-ASN,198588,no-resolve
   - IP-ASN,134413,no-resolve
   - IP-ASN,216224,no-resolve
   - IP-ASN,213404,no-resolve
@@ -361,7 +360,6 @@ payload:
   - IP-ASN,135363,no-resolve
   - IP-ASN,139090,no-resolve
   - IP-ASN,139266,no-resolve
-  - IP-ASN,151951,no-resolve
   - IP-ASN,136766,no-resolve
   - IP-ASN,139726,no-resolve
   - IP-ASN,139179,no-resolve
@@ -400,7 +398,6 @@ payload:
   - IP-ASN,152092,no-resolve
   - IP-ASN,151313,no-resolve
   - IP-ASN,63697,no-resolve
-  - IP-ASN,151270,no-resolve
   - IP-ASN,59073,no-resolve
   - IP-ASN,133475,no-resolve
   - IP-ASN,55982,no-resolve
@@ -635,6 +632,7 @@ payload:
   - IP-ASN,142105,no-resolve
   - IP-ASN,142106,no-resolve
   - IP-ASN,154185,no-resolve
+  - IP-ASN,205794,no-resolve
   - IP-ASN,211992,no-resolve
   - IP-ASN,59265,no-resolve
   - IP-ASN,24302,no-resolve
@@ -761,6 +759,7 @@ payload:
   - IP-ASN,152134,no-resolve
   - IP-ASN,152118,no-resolve
   - IP-ASN,139791,no-resolve
+  - IP-ASN,152598,no-resolve
   - IP-ASN,142586,no-resolve
   - IP-ASN,150373,no-resolve
   - IP-ASN,142642,no-resolve
@@ -5030,7 +5029,6 @@ payload:
   - IP-ASN,200789,no-resolve
   - IP-ASN,200936,no-resolve
   - IP-ASN,200545,no-resolve
-  - IP-ASN,205794,no-resolve
   - IP-ASN,214660,no-resolve
   - IP-ASN,197817,no-resolve
   - IP-ASN,219332,no-resolve
@@ -5097,5 +5095,6 @@ payload:
   - IP-ASN,201944,no-resolve
   - IP-ASN,203643,no-resolve
   - IP-ASN,216100,no-resolve
+  - IP-ASN,219207,no-resolve
   - IP-ASN,205008,no-resolve
   - IP-ASN,201705,no-resolve

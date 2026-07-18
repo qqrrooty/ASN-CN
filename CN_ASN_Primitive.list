@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-18 02:05:09.385Z
-# ASN: 5095
+# 最后更新： CST 2026-07-19 01:56:12.941Z
+# ASN: 5094
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -52,7 +52,6 @@ IP-ASN,4811 // China Telecom (Group)
 IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
-IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,199310 // XIN BING XIAN
@@ -236,7 +235,6 @@ IP-ASN,140293 // China Telecom
 IP-ASN,146834 // "SiChuan XunYou Network Technologe Limit
 IP-ASN,7497 // CNIC-CAS
 IP-ASN,213605 // Liu HaoRan
-IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
 IP-ASN,153034 // Wang Lin
 IP-ASN,139203 // China Telecom
 IP-ASN,139462 // China Telecom
@@ -280,6 +278,7 @@ IP-ASN,132479 // Xue Desen
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,148982 // Bijie Qiulin Information Technology
+IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
@@ -346,7 +345,7 @@ IP-ASN,63654 // BEIJING NETEAST TECHNOLOGIES CORPORATION LTD
 IP-ASN,137788 // Shanxi Beacon Cloudscape
 IP-ASN,137715 // GTJA Securities
 IP-ASN,138029 // "Shen Zhen Hu Lian Xian Feng Technology Co.
-IP-ASN,137785 // "CACloud Services (Shanghai) Co.
+IP-ASN,137785 // "YBY Technology (Shanghai) Co.
 IP-ASN,139138 // "Gopay Information Technology Co.
 IP-ASN,137758 // "Industrial and Commercial Bank of China Limited
 IP-ASN,137571 // "Rang Yang Bai Shi Chuang Yun Co.
@@ -360,7 +359,6 @@ IP-ASN,137745 // AS137745-37
 IP-ASN,135363 // "Chongqing Fuxuan Information Technology Co.
 IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,139266 // "Guangzhou Tiansui Information Technology Co.
-IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
 IP-ASN,136766 // "ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO.
 IP-ASN,139726 // "Guangdong Yunjie Communication Co.
 IP-ASN,139179 // "China Pacific Insurance (Group) Co.
@@ -399,7 +397,6 @@ IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,63697 // "China Securities Co.
-IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
@@ -634,6 +631,7 @@ IP-ASN,142104 // AS142104-38
 IP-ASN,142105 // AS142105-39
 IP-ASN,142106 // AS142106-40
 IP-ASN,154185 // Liu HaoRan
+IP-ASN,205794 // JINZE YANG
 IP-ASN,211992 // Wei Tang
 IP-ASN,59265 // China telecom â China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
@@ -760,6 +758,7 @@ IP-ASN,213903 // Liuyang Zhang
 IP-ASN,152134 // Zoro Limited
 IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
 IP-ASN,139791 // Langfang Wopai Communications Co Ltd
+IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
@@ -5029,7 +5028,6 @@ IP-ASN,200103 // XUAN ZHU
 IP-ASN,200789 // Wei Teng LIn
 IP-ASN,200936 // Chengjie Guo
 IP-ASN,200545 // Liu Quanhao
-IP-ASN,205794 // JINZE YANG
 IP-ASN,214660 // junlin chen
 IP-ASN,197817 // Yunxiao Bai
 IP-ASN,219332 // Xiang Zhou
@@ -5096,5 +5094,6 @@ IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,216100 // Rui Li
+IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201705 // Xinrun Li
