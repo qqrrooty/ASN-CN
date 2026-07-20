@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-20 01:57:38.029Z
-# ASN: 5094
+# 最后更新： CST 2026-07-21 02:52:14.378Z
+# ASN: 5093
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -492,7 +492,6 @@ IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,219300 // Yan Xiangdong
-IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
 IP-ASN,151284 // AS151284-69
@@ -713,7 +712,6 @@ IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,150184 // Chen Chi
 IP-ASN,152892 // Liu Jiarong
-IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,142553 // Airs Project Private Network Main
 IP-ASN,137908 // Lin Siqi
@@ -747,11 +745,11 @@ IP-ASN,153170 // Cui Hongtao
 IP-ASN,153171 // Han Jiajun
 IP-ASN,153172 // Wang Gongrui
 IP-ASN,152922 // Zhang Fuyu
-IP-ASN,136535 // Yang Mengqi
 IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
+IP-ASN,138535 // Wu Qi
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,213903 // Liuyang Zhang
@@ -759,6 +757,7 @@ IP-ASN,152134 // Zoro Limited
 IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
 IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
+IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
