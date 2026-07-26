@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-26 01:57:56.436Z
+# 最后更新： CST 2026-07-27 02:01:02.026Z
 # ASN: 4990
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -30,6 +30,7 @@ IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
+IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152672 // Aiyun (HK) Network
 IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
@@ -52,6 +53,7 @@ IP-ASN,4811 // China Telecom (Group)
 IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
+IP-ASN,136725 // Chen Jitong
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
@@ -79,7 +81,6 @@ IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,154648 // TermRat Network Limited
-IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -277,7 +278,6 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
-IP-ASN,136725 // Chen Jitong
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,219324 // LI GUOLIN
