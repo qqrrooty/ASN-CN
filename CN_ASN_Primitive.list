@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-28 02:23:33.099Z
-# ASN: 4990
+# 最后更新： CST 2026-07-29 02:13:44.180Z
+# ASN: 4991
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -154,6 +154,7 @@ IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
 IP-ASN,151302 // China Internet Network Information Center
+IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -210,7 +211,6 @@ IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
-IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,205610 // Huanjie Zhu
@@ -223,10 +223,8 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
-IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
-IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
 IP-ASN,135061 // China Unicom Guangdong IP network
 IP-ASN,137702 // China Telecom
 IP-ASN,63633 // "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.
@@ -414,6 +412,7 @@ IP-ASN,138169 // China Telecom
 IP-ASN,134419 // Beihai
 IP-ASN,148969 // China Telecom
 IP-ASN,59011 // "Beijing Yunlin Network Technology Co.
+IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
 IP-ASN,132225 // China Telecom
 IP-ASN,59223 // CHINANET Qinghai province IDC network
@@ -632,6 +631,7 @@ IP-ASN,205794 // JINZE YANG
 IP-ASN,211992 // Wei Tang
 IP-ASN,59265 // China telecom A?A?A? China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
+IP-ASN,150370 // "Beijing WuYuYunLian Network Technology Co.
 IP-ASN,141172 // Tianao Chen
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
@@ -4959,6 +4959,7 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,139249 // ENMOE
 IP-ASN,214933 // Bingxin Liu
+IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
