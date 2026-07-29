@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-29 02:13:44.180Z
-# ASN: 4991
+# 最后更新： CST 2026-07-30 02:06:01.608Z
+# ASN: 4990
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -223,8 +223,10 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
+IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
+IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
 IP-ASN,135061 // China Unicom Guangdong IP network
 IP-ASN,137702 // China Telecom
 IP-ASN,63633 // "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.
@@ -412,7 +414,6 @@ IP-ASN,138169 // China Telecom
 IP-ASN,134419 // Beihai
 IP-ASN,148969 // China Telecom
 IP-ASN,59011 // "Beijing Yunlin Network Technology Co.
-IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
 IP-ASN,132225 // China Telecom
 IP-ASN,59223 // CHINANET Qinghai province IDC network
@@ -534,7 +535,6 @@ IP-ASN,17633 // ASN for Shandong Provincial Net of CT
 IP-ASN,24355 // CERNET2 IX at University of Electronic Science and Technology of China
 IP-ASN,24357 // CERNET2 IX at South China University of Technology
 IP-ASN,24361 // CERNET2 IX at Southeast University
-IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,38834 // NVIDIA HONG KONG DEVELOPMENT LIMITED
 IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
 IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
@@ -682,7 +682,6 @@ IP-ASN,151461 // AS151461-39
 IP-ASN,151462 // AS151462-40
 IP-ASN,38355 // ChongQing Broadcast & TV Broadband IP MAN
 IP-ASN,55641 // "Beijing CNISP Technology Co.
-IP-ASN,151276 // China Internet Network Information Center
 IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,151230 // China Internet Network Information Center
 IP-ASN,137256 // CatIO Network
