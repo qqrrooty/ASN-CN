@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-30 02:06:01.608Z
+# 最后更新： CST 2026-07-31 02:14:46.673Z
 # ASN: 4990
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -201,7 +201,6 @@ IP-ASN,133846,no-resolve
 IP-ASN,7721,no-resolve
 IP-ASN,210041,no-resolve
 IP-ASN,139073,no-resolve
-IP-ASN,50922,no-resolve
 IP-ASN,209294,no-resolve
 IP-ASN,133555,no-resolve
 IP-ASN,203236,no-resolve
@@ -305,7 +304,6 @@ IP-ASN,9811,no-resolve
 IP-ASN,212237,no-resolve
 IP-ASN,131574,no-resolve
 IP-ASN,63567,no-resolve
-IP-ASN,151232,no-resolve
 IP-ASN,59049,no-resolve
 IP-ASN,139137,no-resolve
 IP-ASN,63580,no-resolve
@@ -350,7 +348,6 @@ IP-ASN,139138,no-resolve
 IP-ASN,137758,no-resolve
 IP-ASN,137571,no-resolve
 IP-ASN,136197,no-resolve
-IP-ASN,139743,no-resolve
 IP-ASN,146782,no-resolve
 IP-ASN,137759,no-resolve
 IP-ASN,135432,no-resolve
@@ -394,6 +391,7 @@ IP-ASN,136180,no-resolve
 IP-ASN,63561,no-resolve
 IP-ASN,133118,no-resolve
 IP-ASN,139110,no-resolve
+IP-ASN,151232,no-resolve
 IP-ASN,151313,no-resolve
 IP-ASN,63697,no-resolve
 IP-ASN,59073,no-resolve
@@ -632,7 +630,6 @@ IP-ASN,211992,no-resolve
 IP-ASN,59265,no-resolve
 IP-ASN,24302,no-resolve
 IP-ASN,150370,no-resolve
-IP-ASN,141172,no-resolve
 IP-ASN,154155,no-resolve
 IP-ASN,38323,no-resolve
 IP-ASN,204856,no-resolve
@@ -682,6 +679,7 @@ IP-ASN,151461,no-resolve
 IP-ASN,151462,no-resolve
 IP-ASN,38355,no-resolve
 IP-ASN,55641,no-resolve
+IP-ASN,151276,no-resolve
 IP-ASN,215750,no-resolve
 IP-ASN,151230,no-resolve
 IP-ASN,137256,no-resolve
@@ -752,7 +750,6 @@ IP-ASN,153330,no-resolve
 IP-ASN,153332,no-resolve
 IP-ASN,138535,no-resolve
 IP-ASN,153458,no-resolve
-IP-ASN,213903,no-resolve
 IP-ASN,152134,no-resolve
 IP-ASN,152118,no-resolve
 IP-ASN,152631,no-resolve
@@ -761,6 +758,7 @@ IP-ASN,152697,no-resolve
 IP-ASN,142586,no-resolve
 IP-ASN,150373,no-resolve
 IP-ASN,142642,no-resolve
+IP-ASN,213903,no-resolve
 IP-ASN,132623,no-resolve
 IP-ASN,139231,no-resolve
 IP-ASN,151194,no-resolve
@@ -1740,6 +1738,7 @@ IP-ASN,143646,no-resolve
 IP-ASN,143647,no-resolve
 IP-ASN,143648,no-resolve
 IP-ASN,143649,no-resolve
+IP-ASN,143650,no-resolve
 IP-ASN,143651,no-resolve
 IP-ASN,143652,no-resolve
 IP-ASN,143653,no-resolve
@@ -4956,6 +4955,7 @@ IP-ASN,215848,no-resolve
 IP-ASN,212982,no-resolve
 IP-ASN,213545,no-resolve
 IP-ASN,202396,no-resolve
+IP-ASN,50922,no-resolve
 IP-ASN,139249,no-resolve
 IP-ASN,214933,no-resolve
 IP-ASN,214575,no-resolve
