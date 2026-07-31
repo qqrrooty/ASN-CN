@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-07-31 02:14:46.673Z
-# ASN: 4990
+# 最后更新： CST 2026-08-01 02:25:37.715Z
+# ASN: 4991
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -53,7 +53,6 @@ IP-ASN,4811 // China Telecom (Group)
 IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
-IP-ASN,136725 // Chen Jitong
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
@@ -201,6 +200,7 @@ IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
+IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
 IP-ASN,203236 // Mingyang Shen
@@ -221,6 +221,7 @@ IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
+IP-ASN,136725 // Chen Jitong
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
@@ -394,9 +395,9 @@ IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,63697 // "China Securities Co.
+IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
-IP-ASN,153911 // DuoTu Cloud
 IP-ASN,55982 // "Changhong IT information Products CO.
 IP-ASN,55971 // Chinese Academy of Social Sciences
 IP-ASN,138979 // "Guangzhou Shujie Suyuan Culture Communication Co.
@@ -801,6 +802,7 @@ IP-ASN,142685 // AS142685-36
 IP-ASN,142686 // AS142686-37
 IP-ASN,142687 // AS142687-38
 IP-ASN,142688 // AS142688-39
+IP-ASN,142689 // AS142689-40
 IP-ASN,142690 // AS142690-41
 IP-ASN,142699 // AS142699-50
 IP-ASN,142700 // AS142700-51
@@ -4955,7 +4957,6 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
-IP-ASN,50922 // SHI Li Li
 IP-ASN,139249 // ENMOE
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
