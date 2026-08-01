@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-01 02:25:37.715Z
-# ASN: 4991
+# 最后更新： CST 2026-08-02 01:59:38.787Z
+# ASN: 4989
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -78,6 +78,7 @@ IP-ASN,133776 // Quanzhou
 IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
+IP-ASN,136725 // Chen Jitong
 IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,154648 // TermRat Network Limited
 IP-ASN,58461 // "No.288
@@ -103,23 +104,23 @@ IP-ASN,58519 // Cloud Computing Corporation
 IP-ASN,63835 // "No.293
 IP-ASN,137689 // "IOT Jiangsu network
 IP-ASN,140638 // China Telecom
-IP-ASN,9808 // China Mobile
+IP-ASN,9808 // "China Mobile Communications Group Co.
 IP-ASN,56044 // China Mobile Communications Corporation
 IP-ASN,132525 // China Mobile Communications Corporation
 IP-ASN,56047 // China Mobile Communications Corporation
 IP-ASN,24400 // China Mobile
 IP-ASN,56041 // China Mobile Communications Corporation
-IP-ASN,38019 // China Mobile
+IP-ASN,38019 // "China Mobile Communications Group Co.
 IP-ASN,134810 // China Mobile Communications Corporation
 IP-ASN,56042 // China Mobile Communications Corporation
 IP-ASN,56045 // China Mobile Communications Corporation
 IP-ASN,24547 // China Mobile
 IP-ASN,56046 // China Mobile Communications Corporation
-IP-ASN,24445 // China Mobile
+IP-ASN,24445 // "China Mobile Communications Group Co.
 IP-ASN,56040 // China Mobile Communications Corporation
 IP-ASN,141425 // China Mobile Communications Corporation
 IP-ASN,139080 // China Mobile Communications Corporation
-IP-ASN,24444 // China Mobile
+IP-ASN,24444 // "China Mobile Communications Group Co.
 IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,63570 // AS63570-41
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
@@ -210,6 +211,7 @@ IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
+IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,205610 // Huanjie Zhu
@@ -221,7 +223,6 @@ IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
-IP-ASN,136725 // Chen Jitong
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
@@ -395,7 +396,6 @@ IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,63697 // "China Securities Co.
-IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
@@ -500,6 +500,7 @@ IP-ASN,151277 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
 IP-ASN,136250 // ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
 IP-ASN,24349 // CERNET2 IX at Peking University
+IP-ASN,139184 // "China Central Depository & Clearing Co.
 IP-ASN,153726 // "Shanghai Huiduan Technology Co.
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
@@ -803,7 +804,6 @@ IP-ASN,142686 // AS142686-37
 IP-ASN,142687 // AS142687-38
 IP-ASN,142688 // AS142688-39
 IP-ASN,142689 // AS142689-40
-IP-ASN,142690 // AS142690-41
 IP-ASN,142699 // AS142699-50
 IP-ASN,142700 // AS142700-51
 IP-ASN,142701 // AS142701-52
@@ -2405,6 +2405,7 @@ IP-ASN,144331 // AS144331-146
 IP-ASN,144332 // AS144332-147
 IP-ASN,144333 // AS144333-148
 IP-ASN,144334 // AS144334-149
+IP-ASN,144335 // AS144335-150
 IP-ASN,144336 // AS144336-151
 IP-ASN,144337 // AS144337-152
 IP-ASN,144338 // AS144338-153
@@ -4959,12 +4960,10 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,139249 // ENMOE
 IP-ASN,214933 // Bingxin Liu
-IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
-IP-ASN,219397 // Liangmin Li
 IP-ASN,219210 // ZiMo Wang
 IP-ASN,198135 // YONG LI
 IP-ASN,219289 // Jiang Songyang
@@ -4975,7 +4974,6 @@ IP-ASN,211575 // Rui Feng
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
-IP-ASN,199353 // Gao Yuheng
 IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
 IP-ASN,214963 // Puhe You
