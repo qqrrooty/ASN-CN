@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-02 01:59:38.787Z
-# ASN: 4989
+# 最后更新： CST 2026-08-03 02:01:35.006Z
+# ASN: 4988
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -78,7 +78,6 @@ IP-ASN,133776 // Quanzhou
 IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
-IP-ASN,136725 // Chen Jitong
 IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,154648 // TermRat Network Limited
 IP-ASN,58461 // "No.288
@@ -224,7 +223,6 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
-IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
@@ -279,6 +277,7 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
+IP-ASN,136725 // Chen Jitong
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,219324 // LI GUOLIN
