@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-03 02:01:35.006Z
+# 最后更新： CST 2026-08-04 02:50:39.679Z
 # ASN: 4988
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -505,7 +505,6 @@ payload:
   - IP-ASN,153725,no-resolve
   - IP-ASN,137264,no-resolve
   - IP-ASN,154010,no-resolve
-  - IP-ASN,151229,no-resolve
   - IP-ASN,58862,no-resolve
   - IP-ASN,38027,no-resolve
   - IP-ASN,141776,no-resolve
@@ -4964,6 +4963,7 @@ payload:
   - IP-ASN,214207,no-resolve
   - IP-ASN,202335,no-resolve
   - IP-ASN,198681,no-resolve
+  - IP-ASN,219397,no-resolve
   - IP-ASN,219210,no-resolve
   - IP-ASN,198135,no-resolve
   - IP-ASN,219289,no-resolve
