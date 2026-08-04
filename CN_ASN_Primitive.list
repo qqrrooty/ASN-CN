@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-04 02:50:39.679Z
-# ASN: 4988
+# 最后更新： CST 2026-08-05 02:26:39.450Z
+# ASN: 4986
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -30,6 +30,7 @@ IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
+IP-ASN,136725 // Chen Jitong
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152672 // Aiyun (HK) Network
 IP-ASN,45102 // "Alibaba (US) Technology Co.
@@ -153,7 +154,6 @@ IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
 IP-ASN,151302 // China Internet Network Information Center
-IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -277,7 +277,6 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
-IP-ASN,136725 // Chen Jitong
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,219324 // LI GUOLIN
@@ -382,6 +381,7 @@ IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,146822 // Shenzhenshi Zhongyun Shujujishu Youxiangongsi
 IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
+IP-ASN,151300 // AS151300-85
 IP-ASN,58543 // Guangdong
 IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
@@ -455,7 +455,6 @@ IP-ASN,59045 // "Guangzhou navigation information technology co.
 IP-ASN,144704 // AS144704-7
 IP-ASN,38255 // China Education and Research Network (CERNET)
 IP-ASN,38380 // China South Locomotive And Rolling Stock Industry Company
-IP-ASN,38379 // "No.9 Building
 IP-ASN,38367 // "20/F.
 IP-ASN,38375 // GSGH security LLC
 IP-ASN,131562 // "HUNAN CATV Network Group CO.
@@ -4913,9 +4912,8 @@ IP-ASN,200890 // Jianfeng Ren
 IP-ASN,206729 // Vincent Yang
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
-IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,219283 // Haohao Zhang
-IP-ASN,219208 // MAOQUN QIU
+IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,200853 // Yifan Li
 IP-ASN,200268 // Haihan Chen
 IP-ASN,200809 // QUN LIN
@@ -4969,7 +4967,6 @@ IP-ASN,219289 // Jiang Songyang
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
-IP-ASN,211575 // Rui Feng
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
@@ -4984,6 +4981,7 @@ IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
+IP-ASN,211575 // Rui Feng
 IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
