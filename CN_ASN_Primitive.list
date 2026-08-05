@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-05 02:26:39.450Z
-# ASN: 4986
+# 最后更新： CST 2026-08-06 02:20:46.083Z
+# ASN: 4989
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -54,6 +54,7 @@ IP-ASN,4811 // China Telecom (Group)
 IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
+IP-ASN,151640 // Bengbu Qingye Technology
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
@@ -108,7 +109,7 @@ IP-ASN,9808 // "China Mobile Communications Group Co.
 IP-ASN,56044 // China Mobile Communications Corporation
 IP-ASN,132525 // China Mobile Communications Corporation
 IP-ASN,56047 // China Mobile Communications Corporation
-IP-ASN,24400 // China Mobile
+IP-ASN,24400 // "China Mobile Communications Group Co.
 IP-ASN,56041 // China Mobile Communications Corporation
 IP-ASN,38019 // "China Mobile Communications Group Co.
 IP-ASN,134810 // China Mobile Communications Corporation
@@ -173,6 +174,7 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
+IP-ASN,151300 // AS151300-85
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -304,6 +306,7 @@ IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
+IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -381,7 +384,6 @@ IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,146822 // Shenzhenshi Zhongyun Shujujishu Youxiangongsi
 IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
-IP-ASN,151300 // AS151300-85
 IP-ASN,58543 // Guangdong
 IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
@@ -392,7 +394,6 @@ IP-ASN,136180 // "Beijing Tiantexin Tech. Co.
 IP-ASN,63561 // "China Electronics Technology Cyber Security Co.
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
-IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,63697 // "China Securities Co.
 IP-ASN,59073 // Bank of China Limited
@@ -503,6 +504,7 @@ IP-ASN,153726 // "Shanghai Huiduan Technology Co.
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
 IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
+IP-ASN,151229 // China Internet Network Information Center
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
 IP-ASN,141776 // Baoshuo Network
@@ -4913,6 +4915,7 @@ IP-ASN,206729 // Vincent Yang
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
 IP-ASN,219283 // Haohao Zhang
+IP-ASN,219208 // MAOQUN QIU
 IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,200853 // Yifan Li
 IP-ASN,200268 // Haihan Chen
@@ -4967,6 +4970,7 @@ IP-ASN,219289 // Jiang Songyang
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
+IP-ASN,211575 // Rui Feng
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
@@ -4981,7 +4985,6 @@ IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
-IP-ASN,211575 // Rui Feng
 IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
