@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-11 01:51:02.001Z
-# ASN: 1004
+# 最后更新： CST 2026-08-12 02:16:41.940Z
+# ASN: 1010
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -276,12 +276,14 @@ IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
+IP-ASN,153168 // Lu Bin
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,219324 // LI GUOLIN
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
+IP-ASN,219210 // ZiMo Wang
 IP-ASN,212164 // Jiaxian He
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,133119 // China Unicom IP network
@@ -331,7 +333,6 @@ IP-ASN,133478 // "Tencent Cloud Computing (Beijing) Co.
 IP-ASN,131567 // "Fnetlink International Co.
 IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
 IP-ASN,138538 // "Ningbo Nanbian Tuoluo Xinxi Jishu Co.
-IP-ASN,153168 // Lu Bin
 IP-ASN,63603 // GSS China
 IP-ASN,137764 // Beijing Youkai Technology Co.Ltd
 IP-ASN,63718 // "Hangzhou YouYun Technology Co.
@@ -765,11 +766,17 @@ IP-ASN,141445 // Phoenix Network
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,142689 // AS142689-40
 IP-ASN,143095 // AS143095-446
+IP-ASN,143190 // AS143190-27
+IP-ASN,143623 // AS143623-460
 IP-ASN,143627 // AS143627-464
 IP-ASN,143733 // AS143733-60
 IP-ASN,143888 // AS143888-215
+IP-ASN,144014 // AS144014-341
 IP-ASN,144405 // AS144405-220
 IP-ASN,144566 // AS144566-381
+IP-ASN,145324 // AS145324-115
+IP-ASN,145430 // AS145430-221
+IP-ASN,145679 // AS145679-470
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
 IP-ASN,140852 // China Telecom
@@ -919,6 +926,7 @@ IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
+IP-ASN,219208 // MAOQUN QIU
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,219480 // shuai wang
@@ -928,8 +936,6 @@ IP-ASN,200890 // Jianfeng Ren
 IP-ASN,206729 // Vincent Yang
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
-IP-ASN,219208 // MAOQUN QIU
-IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,219283 // Haohao Zhang
 IP-ASN,200853 // Yifan Li
 IP-ASN,200268 // Haihan Chen
@@ -940,6 +946,7 @@ IP-ASN,200789 // Wei Teng LIn
 IP-ASN,200936 // Chengjie Guo
 IP-ASN,200545 // Liu Quanhao
 IP-ASN,214660 // junlin chen
+IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,197817 // Yunxiao Bai
 IP-ASN,219332 // Xiang Zhou
 IP-ASN,209556 // Benli Zhong
@@ -978,7 +985,6 @@ IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
-IP-ASN,219210 // ZiMo Wang
 IP-ASN,198135 // YONG LI
 IP-ASN,219289 // Jiang Songyang
 IP-ASN,211575 // Rui Feng
