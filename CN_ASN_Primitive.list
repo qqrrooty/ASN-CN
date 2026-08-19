@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-19 01:25:09.338Z
-# ASN: 1032
+# 最后更新： CST 2026-08-20 01:25:42.777Z
+# ASN: 1035
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -53,7 +53,7 @@ IP-ASN,4811 // China Telecom (Group)
 IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
-IP-ASN,136725 // Chen Jitong
+IP-ASN,151640 // Bengbu Qingye Technology
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
@@ -212,8 +212,8 @@ IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
-IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,205610 // Huanjie Zhu
+IP-ASN,136725 // Chen Jitong
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
 IP-ASN,55967 // "Beijing Baidu Netcom Science and Technology Co.
 IP-ASN,45061 // "Shanghai Information Network Co.
@@ -563,6 +563,7 @@ IP-ASN,23851 // "CHONGQING CNC BROADBAND NETWORKS CO.
 IP-ASN,149979 // China Telecom
 IP-ASN,45074 // Data Management Centre National Bureau of Statistics of China
 IP-ASN,37965 // Pacnet Business Solutions LTD
+IP-ASN,204244 // Xuanchen Xiang
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
 IP-ASN,149178 // China Telecom
 IP-ASN,132833 // China Telecom
@@ -771,6 +772,7 @@ IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,146835 // "Nanchang index technology development Co.
 IP-ASN,142689 // AS142689-40
 IP-ASN,143095 // AS143095-446
+IP-ASN,143155 // AS143155-506
 IP-ASN,143431 // AS143431-268
 IP-ASN,143596 // AS143596-433
 IP-ASN,143664 // AS143664-501
@@ -789,6 +791,7 @@ IP-ASN,144234 // AS144234-49
 IP-ASN,144280 // AS144280-95
 IP-ASN,144295 // AS144295-110
 IP-ASN,144325 // AS144325-140
+IP-ASN,144394 // AS144394-209
 IP-ASN,144405 // AS144405-220
 IP-ASN,144507 // AS144507-322
 IP-ASN,144520 // AS144520-335
@@ -800,6 +803,7 @@ IP-ASN,145249 // AS145249-40
 IP-ASN,145338 // AS145338-129
 IP-ASN,145509 // AS145509-300
 IP-ASN,145540 // AS145540-331
+IP-ASN,145542 // AS145542-333
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
 IP-ASN,140852 // China Telecom
@@ -948,13 +952,10 @@ IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
-IP-ASN,219208 // MAOQUN QIU
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,219480 // shuai wang
 IP-ASN,218985 // YU WANG
-IP-ASN,219283 // Haohao Zhang
-IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
@@ -1012,7 +1013,9 @@ IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
+IP-ASN,219208 // MAOQUN QIU
 IP-ASN,212793 // Xiwei Ye
+IP-ASN,219283 // Haohao Zhang
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
