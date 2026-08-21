@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-21 01:27:26.783Z
-# ASN: 1039
+# 最后更新： CST 2026-08-22 01:27:33.098Z
+# ASN: 1042
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -53,7 +53,6 @@ IP-ASN,4811 // China Telecom (Group)
 IP-ASN,137718 // "Beijing Volcano Engine Technology Co.
 IP-ASN,141739 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
-IP-ASN,151640 // Bengbu Qingye Technology
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
@@ -126,6 +125,7 @@ IP-ASN,63570 // AS63570-41
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
+IP-ASN,219289 // Jiang Songyang
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
 IP-ASN,56005 // "Zhengzhou Fastidc Technology Co.
@@ -195,6 +195,7 @@ IP-ASN,151673 // Chen Xinyu
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,208754 // XingRui Li
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
+IP-ASN,197817 // Yunxiao Bai
 IP-ASN,213605 // Liu HaoRan
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
@@ -280,7 +281,6 @@ IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,219324 // LI GUOLIN
-IP-ASN,219289 // Jiang Songyang
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,202335 // Zhanrui Tian
@@ -772,6 +772,7 @@ IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,146835 // "Nanchang index technology development Co.
 IP-ASN,142689 // AS142689-40
 IP-ASN,142690 // AS142690-41
+IP-ASN,142977 // AS142977-328
 IP-ASN,143095 // AS143095-446
 IP-ASN,143155 // AS143155-506
 IP-ASN,143431 // AS143431-268
@@ -785,6 +786,7 @@ IP-ASN,144031 // AS144031-358
 IP-ASN,144037 // AS144037-364
 IP-ASN,144056 // AS144056-383
 IP-ASN,144089 // AS144089-416
+IP-ASN,144092 // AS144092-419
 IP-ASN,144185 // AS144185-512
 IP-ASN,144191 // AS144191-6
 IP-ASN,144232 // AS144232-47
@@ -792,14 +794,17 @@ IP-ASN,144234 // AS144234-49
 IP-ASN,144280 // AS144280-95
 IP-ASN,144295 // AS144295-110
 IP-ASN,144325 // AS144325-140
+IP-ASN,144340 // AS144340-155
 IP-ASN,144394 // AS144394-209
 IP-ASN,144405 // AS144405-220
 IP-ASN,144494 // AS144494-309
 IP-ASN,144507 // AS144507-322
 IP-ASN,144520 // AS144520-335
+IP-ASN,144529 // AS144529-344
 IP-ASN,144633 // AS144633-448
 IP-ASN,144680 // AS144680-495
 IP-ASN,144694 // AS144694-509
+IP-ASN,145219 // AS145219-10
 IP-ASN,145241 // AS145241-32
 IP-ASN,145249 // AS145249-40
 IP-ASN,145338 // AS145338-129
@@ -975,11 +980,9 @@ IP-ASN,200789 // Wei Teng LIn
 IP-ASN,200936 // Chengjie Guo
 IP-ASN,200545 // Liu Quanhao
 IP-ASN,214660 // junlin chen
-IP-ASN,197817 // Yunxiao Bai
 IP-ASN,219332 // Xiang Zhou
 IP-ASN,209556 // Benli Zhong
 IP-ASN,206315 // Shucheng Li
-IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
 IP-ASN,205532 // Zichao Heng
 IP-ASN,215007 // BOZHAN LIANG
@@ -988,7 +991,6 @@ IP-ASN,209586 // SUNYOU PAN
 IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
-IP-ASN,219208 // MAOQUN QIU
 IP-ASN,219283 // Haohao Zhang
 IP-ASN,219378 // ZHANG XIYUAN
 IP-ASN,210426 // Liang Zhu
@@ -1019,6 +1021,7 @@ IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
+IP-ASN,219208 // MAOQUN QIU
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
