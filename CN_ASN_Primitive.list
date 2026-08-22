@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-22 01:27:33.098Z
-# ASN: 1042
+# 最后更新： CST 2026-08-23 01:18:42.986Z
+# ASN: 1048
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -497,7 +497,6 @@ IP-ASN,211265 // GUI JIANG
 IP-ASN,151284 // AS151284-69
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
-IP-ASN,151245 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
 IP-ASN,136250 // ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
 IP-ASN,24349 // CERNET2 IX at Peking University
@@ -773,12 +772,16 @@ IP-ASN,146835 // "Nanchang index technology development Co.
 IP-ASN,142689 // AS142689-40
 IP-ASN,142690 // AS142690-41
 IP-ASN,142977 // AS142977-328
+IP-ASN,143010 // AS143010-361
 IP-ASN,143095 // AS143095-446
 IP-ASN,143155 // AS143155-506
 IP-ASN,143431 // AS143431-268
+IP-ASN,143555 // AS143555-392
 IP-ASN,143596 // AS143596-433
 IP-ASN,143664 // AS143664-501
 IP-ASN,143667 // AS143667-504
+IP-ASN,143692 // AS143692-19
+IP-ASN,143720 // AS143720-47
 IP-ASN,143816 // AS143816-143
 IP-ASN,143888 // AS143888-215
 IP-ASN,143919 // AS143919-246
@@ -983,6 +986,7 @@ IP-ASN,214660 // junlin chen
 IP-ASN,219332 // Xiang Zhou
 IP-ASN,209556 // Benli Zhong
 IP-ASN,206315 // Shucheng Li
+IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
 IP-ASN,205532 // Zichao Heng
 IP-ASN,215007 // BOZHAN LIANG
@@ -1012,6 +1016,7 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,139249 // ENMOE
 IP-ASN,214933 // Bingxin Liu
+IP-ASN,198266 // Yunrui Gu
 IP-ASN,207303 // Xilin Xie
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
@@ -1025,6 +1030,7 @@ IP-ASN,219208 // MAOQUN QIU
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
+IP-ASN,209565 // "Shanghai Candy Rectangle Technology Co.
 IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
 IP-ASN,214963 // Puhe You
@@ -1036,11 +1042,11 @@ IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
-IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
+IP-ASN,205369 // LI YIRAN
 IP-ASN,216100 // Rui Li
 IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,205008 // Junqi Huang
