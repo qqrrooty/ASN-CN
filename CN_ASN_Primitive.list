@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-08-23 01:18:42.986Z
-# ASN: 1048
+# 最后更新： CST 2026-08-24 01:19:43.705Z
+# ASN: 1049
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -214,6 +214,7 @@ IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
+IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
 IP-ASN,205610 // Huanjie Zhu
 IP-ASN,136725 // Chen Jitong
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
@@ -283,7 +284,6 @@ IP-ASN,134413 // KMNIX LLC
 IP-ASN,219324 // LI GUOLIN
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
-IP-ASN,202335 // Zhanrui Tian
 IP-ASN,219210 // ZiMo Wang
 IP-ASN,212164 // Jiaxian He
 IP-ASN,9405 // Test platform Service Center
@@ -477,13 +477,11 @@ IP-ASN,63641 // "Mega Vantage Information Consulting Co.
 IP-ASN,131536 // "Shanghai Great Wall Broadband Network Service Co.
 IP-ASN,139721 // China Telecom
 IP-ASN,9814 // "Beijing FibrLINK Networks Co.
-IP-ASN,18242 // "Chengdu Information Harbor Co.
 IP-ASN,63593 // HeyTap PTE.LTD.
 IP-ASN,38057 // "Dell (China) Co.
 IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
-IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
 IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,149510 // Feng Libo
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -497,6 +495,7 @@ IP-ASN,211265 // GUI JIANG
 IP-ASN,151284 // AS151284-69
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
+IP-ASN,151245 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
 IP-ASN,136250 // ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
 IP-ASN,24349 // CERNET2 IX at Peking University
@@ -775,6 +774,7 @@ IP-ASN,142977 // AS142977-328
 IP-ASN,143010 // AS143010-361
 IP-ASN,143095 // AS143095-446
 IP-ASN,143155 // AS143155-506
+IP-ASN,143297 // AS143297-134
 IP-ASN,143431 // AS143431-268
 IP-ASN,143555 // AS143555-392
 IP-ASN,143596 // AS143596-433
@@ -815,6 +815,7 @@ IP-ASN,145343 // AS145343-134
 IP-ASN,145509 // AS145509-300
 IP-ASN,145540 // AS145540-331
 IP-ASN,145542 // AS145542-333
+IP-ASN,145546 // AS145546-337
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
 IP-ASN,140852 // China Telecom
@@ -986,7 +987,6 @@ IP-ASN,214660 // junlin chen
 IP-ASN,219332 // Xiang Zhou
 IP-ASN,209556 // Benli Zhong
 IP-ASN,206315 // Shucheng Li
-IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
 IP-ASN,205532 // Zichao Heng
 IP-ASN,215007 // BOZHAN LIANG
@@ -1018,6 +1018,7 @@ IP-ASN,139249 // ENMOE
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,207303 // Xilin Xie
+IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
 IP-ASN,211575 // Rui Feng
@@ -1042,12 +1043,12 @@ IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
+IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
+IP-ASN,201705 // Xinrun Li
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
-IP-ASN,205369 // LI YIRAN
 IP-ASN,216100 // Rui Li
 IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,205008 // Junqi Huang
-IP-ASN,201705 // Xinrun Li
