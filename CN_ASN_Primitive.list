@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-02 03:46:15.403Z
-# ASN: 1085
+# 最后更新： CST 2026-09-03 03:39:05.153Z
+# ASN: 1089
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -123,6 +123,7 @@ IP-ASN,63570 // AS63570-41
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
+IP-ASN,219289 // Jiang Songyang
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
 IP-ASN,56005 // "Zhengzhou Fastidc Technology Co.
@@ -150,6 +151,7 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
+IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -279,7 +281,6 @@ IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,219324 // LI GUOLIN
-IP-ASN,219289 // Jiang Songyang
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,219210 // ZiMo Wang
@@ -323,7 +324,6 @@ IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
 IP-ASN,137995 // "Shuangyu Communications Technology Co.
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -383,7 +383,6 @@ IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,146822 // Shenzhenshi Zhongyun Shujujishu Youxiangongsi
 IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
-IP-ASN,151300 // AS151300-85
 IP-ASN,58543 // Guangdong
 IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
@@ -786,6 +785,7 @@ IP-ASN,143664 // AS143664-501
 IP-ASN,143667 // AS143667-504
 IP-ASN,143692 // AS143692-19
 IP-ASN,143720 // AS143720-47
+IP-ASN,143724 // AS143724-51
 IP-ASN,143758 // AS143758-85
 IP-ASN,143786 // AS143786-113
 IP-ASN,143806 // AS143806-133
@@ -806,6 +806,7 @@ IP-ASN,144056 // AS144056-383
 IP-ASN,144089 // AS144089-416
 IP-ASN,144092 // AS144092-419
 IP-ASN,144105 // AS144105-432
+IP-ASN,144164 // AS144164-491
 IP-ASN,144185 // AS144185-512
 IP-ASN,144191 // AS144191-6
 IP-ASN,144211 // AS144211-26
@@ -828,6 +829,7 @@ IP-ASN,144520 // AS144520-335
 IP-ASN,144529 // AS144529-344
 IP-ASN,144551 // AS144551-366
 IP-ASN,144633 // AS144633-448
+IP-ASN,144656 // AS144656-471
 IP-ASN,144680 // AS144680-495
 IP-ASN,144681 // AS144681-496
 IP-ASN,144694 // AS144694-509
@@ -1067,6 +1069,7 @@ IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,209565 // "Shanghai Candy Rectangle Technology Co.
+IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
@@ -1083,6 +1086,7 @@ IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
+IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
 IP-ASN,216100 // Rui Li
