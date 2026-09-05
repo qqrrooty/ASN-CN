@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-05 03:18:30.898Z
-# ASN: 1103
+# 最后更新： CST 2026-09-06 02:47:48.418Z
+# ASN: 1106
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -151,7 +151,6 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
-IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -383,6 +382,7 @@ IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,146822 // Shenzhenshi Zhongyun Shujujishu Youxiangongsi
 IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
+IP-ASN,151300 // AS151300-85
 IP-ASN,58543 // Guangdong
 IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
@@ -788,6 +788,7 @@ IP-ASN,143667 // AS143667-504
 IP-ASN,143692 // AS143692-19
 IP-ASN,143720 // AS143720-47
 IP-ASN,143724 // AS143724-51
+IP-ASN,143741 // AS143741-68
 IP-ASN,143758 // AS143758-85
 IP-ASN,143786 // AS143786-113
 IP-ASN,143806 // AS143806-133
@@ -980,6 +981,7 @@ IP-ASN,140528 // China Telecom
 IP-ASN,140529 // China Telecom
 IP-ASN,140530 // China Telecom
 IP-ASN,140531 // China Telecom
+IP-ASN,140532 // China Telecom
 IP-ASN,140533 // China Telecom
 IP-ASN,140534 // China Telecom
 IP-ASN,140535 // China Telecom
@@ -1074,6 +1076,7 @@ IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
 IP-ASN,211575 // Rui Feng
+IP-ASN,218796 // Yunsheng Deng
 IP-ASN,198135 // YONG LI
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
@@ -1096,13 +1099,13 @@ IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
+IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
 IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
-IP-ASN,205369 // LI YIRAN
 IP-ASN,216100 // Rui Li
 IP-ASN,218834 // Kaixiang Nie
 IP-ASN,205008 // Junqi Huang
