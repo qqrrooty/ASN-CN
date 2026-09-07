@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-07 02:51:15.850Z
-# ASN: 1111
+# 最后更新： CST 2026-09-08 04:22:27.397Z
+# ASN: 1112
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -123,7 +123,6 @@ IP-ASN,63570 // AS63570-41
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
-IP-ASN,219289 // Jiang Songyang
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
 IP-ASN,56005 // "Zhengzhou Fastidc Technology Co.
@@ -280,6 +279,7 @@ IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,219324 // LI GUOLIN
+IP-ASN,219289 // Jiang Songyang
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,219210 // ZiMo Wang
@@ -629,7 +629,6 @@ IP-ASN,205794 // JINZE YANG
 IP-ASN,211992 // Wei Tang
 IP-ASN,59265 // China telecom A?A?A? China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
-IP-ASN,150370 // "Beijing WuYuYunLian Network Technology Co.
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
@@ -764,8 +763,8 @@ IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
-IP-ASN,142689 // AS142689-40
 IP-ASN,142690 // AS142690-41
+IP-ASN,142689 // AS142689-40
 IP-ASN,142749 // AS142749-100
 IP-ASN,142767 // AS142767-118
 IP-ASN,142977 // AS142977-328
@@ -802,6 +801,7 @@ IP-ASN,143890 // AS143890-217
 IP-ASN,143917 // AS143917-244
 IP-ASN,143919 // AS143919-246
 IP-ASN,143920 // AS143920-247
+IP-ASN,143923 // AS143923-250
 IP-ASN,143933 // AS143933-260
 IP-ASN,143967 // AS143967-294
 IP-ASN,143974 // AS143974-301
@@ -829,6 +829,7 @@ IP-ASN,144340 // AS144340-155
 IP-ASN,144367 // AS144367-182
 IP-ASN,144394 // AS144394-209
 IP-ASN,144405 // AS144405-220
+IP-ASN,144421 // AS144421-236
 IP-ASN,144448 // AS144448-263
 IP-ASN,144468 // AS144468-283
 IP-ASN,144480 // AS144480-295
